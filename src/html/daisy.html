@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fragrance Fusion - Calvin Klein</title>
+    <!-- Bootstrap 5.0.2 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="../css/calvinklein.css">
+</head>
+<body>
+    <!-- Navbar -->
+    <nav class="simple-navbar navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+            <div class="nav-brand">
+                <a class="navbar-brand" href="Home.html">FRAGRANCE FUSION</a>
+            </div>
+            <!-- Hamburger Menu Button -->
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <div class="nav-links navbar-nav mx-auto">
+                    <a class="nav-link" href="collections.html">Collections</a>
+                    <a class="nav-link" href="aboutus.html">About Us</a>
+                    <a class="nav-link" href="ContactForm.html">Contact</a>
+                    <a class="nav-link" href="FAQ.html">FAQ</a>
+                </div>
+                <div class="auth-buttons">
+                    <a class="login-button btn btn-outline-dark" href="login.html">Login</a>
+                    <a class="signup-button btn btn-dark" href="signup.html">Sign Up</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container mt-5">
+        <h1 class="text-center">Female Fragrances - Eau De Toilette</h1>
+        <p class="text-center">Discover our collection of elegant and sophisticated fragrances crafted specifically for the modern woman.</p>
+        
+        <div class="row justify-content-center">
+            <div class="col-md-6 col-12">
+                <div class="product text-center" id="daisy">
+                    <img src="../assets/daisymarc.jpg" alt="daisy" class="img-fluid mb-3" style="max-width: 100%; height: auto;">
+                    <h2>Marc Jacobs – Daisy Eau de Toilette</h2>
+                    <p>A cheerful, playful fragrance with strawberry, violet, and gardenia — fresh and youthful.</p>
+                    <p class="price fw-bold">$54.99</p>
+                    <button 
+                        class="btn btn-dark add-to-cart" 
+                        data-id="daisy" 
+                        data-name="daisy" 
+                        data-price="54.99">
+                        Add to Cart
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <div class="row justify-content-center">
+            <div class="col-md-6 col-12">
+                <div class="product text-center" id="Gucci">
+                    <img src="../assets/guccibloom.jpg" alt="Gucci" class="img-fluid mb-3" style="max-width: 100%; height: auto;">
+                    <h2>Gucci – Bloom Eau de Toilette</h2>
+                    <p>A lighter, airier take on white florals like jasmine and tuberose; feminine and breezy.</p>
+                    <p class="price fw-bold">$84.99</p>
+                    <button 
+                        class="btn btn-dark add-to-cart" 
+                        data-id="Gucci" 
+                        data-name="Gucci" 
+                        data-price="84.99">
+                        Add to Cart
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <div class="row justify-content-center">
+            <div class="col-md-6 col-12">
+                <div class="product text-center" id="dolce">
+                    <img src="../assets/dolce.jpg" alt="dolce" class="img-fluid mb-3" style="max-width: 100%; height: auto;">
+                    <h2>Dolce & Gabbana – Light Blue Eau de Toilette</h2>
+                    <p>A crisp, sunny scent with Sicilian lemon, apple, and cedarwood; iconic for summer days.</p>
+                    <p class="price fw-bold">$64.99</p>
+                    <button 
+                        class="btn btn-dark add-to-cart" 
+                        data-id="dolce" 
+                        data-name="dolce" 
+                        data-price="64.99">
+                        Add to Cart
+                    </button>
+                </div>
+            </div>
+        </div>
+
+   
+<!-- Bootstrap JS Bundle with Popper -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
+<script src="../js/cart.js"></script>
+</body>
+</html>

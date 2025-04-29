@@ -1,0 +1,217 @@
+/* Navbar Styling */
+.navbar {
+  background-color: #ffffff;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.navbar-brand {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  color: #111;
+  text-decoration: none;
+}
+
+.nav-link {
+  font-size: 16px;
+  color: #333;
+  text-decoration: none;
+  margin: 0 10px;
+  transition: color 0.3s ease;
+}
+
+.nav-link:hover,
+.nav-link.active {
+  color: #000;
+}
+
+/* Login Page Styling */
+.login-page {
+  background-color: #fafafa;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  min-height: 98vh;
+}
+
+.login-container {
+  background-color: #ffffff;
+  width: 100%;
+  max-width: 1200px;
+  display: flex;
+  justify-content: center;
+}
+
+.login-card {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.05);
+  width: 480px;
+  padding: 40px;
+  box-sizing: border-box;
+}
+
+.login-header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.login-header h1 {
+  color: #111;
+  font-family: 'Poppins', sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  margin: 0;
+}
+
+.login-header p {
+  color: #666;
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  margin-top: 8px;
+}
+
+.error-message {
+  color: #d32f2f;
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 14px;
+}
+
+.form-group {
+  margin-bottom: 24px;
+}
+
+.form-group label {
+  color: #111;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+  display: block;
+  margin-bottom: 8px;
+}
+
+.form-group input {
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  height: 50px;
+  width: 100%;
+  padding: 0 16px;
+  font-size: 16px;
+  color: #333;
+  font-family: 'Poppins', sans-serif;
+  box-sizing: border-box;
+}
+
+.form-group input:focus {
+  outline: none;
+  border-color: #000;
+}
+
+/* Submit Button */
+button[type="submit"] {
+  background-color: #000;
+  color: #fff;
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  height: 50px;
+  width: 100%;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-top: 16px;
+  transition: background-color 0.3s ease;
+}
+
+button[type="submit"]:hover {
+  background-color: #222;
+}
+
+button[type="submit"]:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+/* Login Footer */
+.login-footer {
+  margin-top: 24px;
+  text-align: center;
+}
+
+.login-footer button {
+  background: none;
+  border: none;
+  color: #111;
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.login-footer button:hover {
+  text-decoration: underline;
+}
+
+.login-footer p {
+  color: #666;
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  margin-top: 16px;
+}
+
+/* Card Styling */
+.card {
+  border-radius: 10px;
+  background-color: #ffffff;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+.card h1, .card h2 {
+  color: #111;
+}
+
+.card .btn-primary {
+  background-color: #000;
+  color: #fff;
+  border: none;
+  transition: background-color 0.3s ease;
+}
+
+.card .btn-primary:hover {
+  background-color: #222;
+}
+
+/* Alert */
+.alert {
+  font-size: 14px;
+  color: #d32f2f;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .navbar-brand {
+    font-size: 20px;
+  }
+  .nav-link {
+    font-size: 14px;
+  }
+  .login-card {
+    padding: 30px;
+  }
+}
+
+@media (max-width: 480px) {
+  .navbar-brand {
+    font-size: 18px;
+  }
+  .nav-link {
+    font-size: 12px;
+  }
+  .login-card {
+    width: 90%;
+  }
+  .login-header h1 {
+    font-size: 26px;
+  }
+}

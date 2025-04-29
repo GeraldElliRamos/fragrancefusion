@@ -1,0 +1,170 @@
+/* Page Container */
+.contact-page {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background: #fff;
+    padding: 2rem;
+}
+
+/* Contact Form Container */
+.contact-form-container {
+    max-width: 650px;
+    margin: 4rem auto;
+    padding: 40px 30px;
+    background: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 20px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08);
+    font-family: 'Poppins', sans-serif;
+    animation: fadeInUp 1s ease forwards;
+    transition: all 0.4s ease;
+}
+
+.contact-form-container:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.12);
+}
+
+/* Header */
+.header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.header h1 {
+    font-size: 36px;
+    color: #000;
+    margin-bottom: 0.5rem;
+    letter-spacing: 1px;
+    font-weight: 700;
+}
+
+.header h2 {
+    font-size: 20px;
+    color: #333;
+    font-weight: 400;
+    margin-top: 0;
+}
+
+/* Form */
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.form-group label {
+    font-weight: 500;
+    color: #000;
+    font-size: 15px;
+    margin-left: 2px;
+}
+
+.form-group input,
+.form-group textarea {
+    padding: 14px 16px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    font-size: 16px;
+    background-color: #fff;
+    color: #000;
+    transition: all 0.3s ease;
+}
+
+.form-group input:hover,
+.form-group textarea:hover {
+    background-color: #f9f9f9;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+    border-color: #000;
+    background-color: #fff;
+    outline: none;
+}
+
+/* Textarea */
+.form-group textarea {
+    min-height: 140px;
+    resize: vertical;
+}
+
+/* Name Inputs */
+.name-inputs {
+    display: flex;
+    gap: 20px;
+}
+
+.name-inputs input {
+    flex: 1;
+}
+
+/* Submit Button */
+.submit-btn {
+    background-color: #000;
+    color: #fff;
+    padding: 14px 20px;
+    border: 2px solid #000;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.submit-btn:hover {
+    background-color: #fff;
+    color: #000;
+    border: 2px solid #000;
+    transform: scale(1.05);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .name-inputs {
+        flex-direction: column;
+        gap: 15px;
+    }
+    
+    .contact-form-container {
+        padding: 30px 20px;
+        margin: 2rem auto;
+    }
+}
+
+@media (max-width: 480px) {
+    .header h1 {
+        font-size: 28px;
+    }
+    
+    .header h2 {
+        font-size: 18px;
+    }
+    
+    .form-group input,
+    .form-group textarea {
+        padding: 12px 14px;
+    }
+}
+
+/* Fade In Up Animation */
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
