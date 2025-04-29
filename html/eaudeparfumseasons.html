@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../css/seasons.css">
+    <link rel="stylesheet" href="/css/seasons.css">
+    <link rel="stylesheet" href="/css/headerfooter.css">
     <title>Fragrance Selector</title>
     <style>
         /* Navbar Styles */
@@ -50,12 +51,12 @@
 
     <!-- Navbar Start -->
     <div class="navbar">
-        <div class="logo">FRAGRANCE FUSION</div>
+            <a href="/index.html" class="logo">FRAGRANCE FUSION</a>
         <div class="nav-links">
-            <a href="#">Collections</a>
-            <a href="#">About Us</a>
-            <a href="#">Contact</a>
-            <a href="#">FAQ</a>
+            <a href="collections.html">Collections</a>
+            <a href="AboutUs.html">About Us</a>
+            <a href="ContactForm.html">Contact</a>
+            <a href="FAQ.html">FAQ</a>
         </div>
         <div class="auth-buttons">
             <button onclick="location.href='login.html'">Login</button>
@@ -71,13 +72,13 @@
         <h2>Choose Your Style</h2>
         <div class="style-selection">
             <div class="style-option" onclick="redirectTo('../html/tomford.html')">
-                <img src="../assets/FORMEN3.jpg" alt="Male" style="max-width: 100%; height: auto;">
+                <img src="/assets/FORMEN3.jpg" alt="Male" style="max-width: 100%; height: auto;">
                 <h3>Male</h3>
                 <p>Bold and sophisticated scents</p>
             </div>
 
             <div class="style-option" onclick="redirectTo('../html/cocomademoiselle1.html')">
-                <img src="../assets/FORWOMEN3.jpg" alt="Female" style="max-width: 100%; height: auto;">
+                <img src="/assets/FORWOMEN3.jpg" alt="Female" style="max-width: 100%; height: auto;">
                 <h3>Female</h3>
                 <p>Elegant and refined fragrances</p>
             </div>            
@@ -85,19 +86,19 @@
 
         <h2>Select Your Season</h2>
         <div class="season-selection">
-            <div class="season-option" onclick="redirectTo('spring.html')">
+            <div class="season-option" onclick="redirectTo('seasons/spring.html')">
                 <h3>Spring</h3>
                 <p>Fresh floral and green notes</p>
             </div>
-            <div class="season-option" onclick="redirectTo('summer.html')">
+            <div class="season-option" onclick="redirectTo('seasons/summer.html')">
                 <h3>Summer</h3>
                 <p>Light citrus and aquatic scents</p>
             </div>
-            <div class="season-option" onclick="redirectTo('autumn.html')">
+            <div class="season-option" onclick="redirectTo('seasons/autumn.html')">
                 <h3>Autumn</h3>
                 <p>Warm spicy and woody notes</p>
             </div>
-            <div class="season-option" onclick="redirectTo('winter.html')">
+            <div class="season-option" onclick="redirectTo('seasons/winter.html')">
                 <h3>Winter</h3>
                 <p>Rich oriental and vanilla blends</p>
             </div>
