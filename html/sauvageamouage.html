@@ -7,7 +7,7 @@
     <!-- Bootstrap 5.0.2 CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="../css/calvinklein.css">
+    <link rel="stylesheet" href="/css/calvinklein.css">
 </head>
 <body>
     <!-- Navbar -->
@@ -48,7 +48,13 @@
                     <h2>Dior – Sauvage Elixir</h2>
                     <p>An ultra-concentrated interpretation of Sauvage with spicy cinnamon, lavender, and woods for intense magnetism.</p>
                     <p class="price fw-bold">$120.99</p>
-                    <button class="btn btn-dark add-to-cart">Add to Cart</button>
+                    <button 
+                        class="btn btn-dark add-to-cart" 
+                        data-id="sauvageamouage1" 
+                        data-name="Dior – Sauvage Elixir" 
+                        data-price="120.99">
+                        Add to Cart
+                    </button>
                 </div>
             </div>
         </div>
@@ -60,7 +66,13 @@
                     <h2>Amouage – Interlude Man Extrait</h2>
                     <p>A deep and smoky blend of incense, leather, and oud; a bold statement of mystery and power.</p>
                     <p class="price fw-bold">$70.99</p>
-                    <button class="btn btn-dark add-to-cart">Add to Cart</button>
+                    <button 
+                        class="btn btn-dark add-to-cart" 
+                        data-id="sauvageamouage2" 
+                        data-name="Amouage – Interlude Man Extrait" 
+                        data-price="70.99">
+                        Add to Cart
+                    </button>
                 </div>
             </div>
         </div>
@@ -68,6 +80,6 @@
 
 <!-- Bootstrap JS Bundle with Popper -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
-<script src="../js/cart.js"></script>
+<script src="/js/cart.js"></script>
 </body>
 </html>
