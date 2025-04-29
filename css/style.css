@@ -52,41 +52,50 @@
 }
 
 .auth-buttons {
-  display: flex;
-  gap: 1rem;
+    display: flex;
+    align-items: center;
+    gap: 15px; /* Space between buttons */
 }
 
-.login-button {
-  padding: 0.5rem 1rem;
-  color: #1a1a1a;
-  border: 1px solid #1a1a1a;
-  background-color: transparent;
-  border-radius: 4px;
-  text-decoration: none;
-  transition: all 0.3s ease;
+.auth-buttons .login-button {
+    padding: 8px 16px;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-.signup-button {
-  padding: 0.5rem 1rem;
-  background-color: #333;
-  color: white !important;
-  border-radius: 4px;
-  text-decoration: none;
-  transition: background-color 0.3s ease;
+.auth-buttons .login-button:hover {
+    background-color: #343a40; /* Darker background on hover */
+    color: #fff; /* White text on hover */
 }
 
-.signup-button:hover {
-  background-color: #555;
+.auth-buttons .signup-button {
+    padding: 8px 16px;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-.btn-purple {
-  background-color: #6f42c1; /* Purple color */
-  color: white; /* Text color */
-  border: none; /* Remove border */
+.auth-buttons .signup-button:hover {
+    background-color: #5a6268; /* Slightly lighter dark color */
+    color: #fff; /* White text on hover */
 }
 
-.btn-purple:hover {
-  background-color: #5a32a1; /* Darker purple on hover */
+.auth-buttons .cart-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.3s ease;
+}
+
+.auth-buttons .cart-link:hover {
+    transform: scale(1.1); /* Slight zoom effect on hover */
+}
+
+.auth-buttons .cart-icon {
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
 }
 
 /* Page Structure */
