@@ -47,7 +47,7 @@ function displayCheckoutItems() {
 // Function to handle shipping method selection
 function selectShipping(element, shippingCost) {
     // Remove the "selected" class from all shipping options
-    const shippingOptions = document.querySelectorAll('.option');
+    const shippingOptions = document.querySelectorAll('.option');   
     shippingOptions.forEach(option => option.classList.remove('selected'));
 
     // Add the "selected" class to the clicked option

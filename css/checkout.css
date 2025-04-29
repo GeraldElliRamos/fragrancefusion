@@ -671,3 +671,26 @@ flex-shrink: 0;
   }
 }
 
+/* Make the checkout items list scrollable */
+#checkout-items-list {
+  max-height: 300px; /* Set a fixed height */
+  overflow-y: auto; /* Enable vertical scrolling */
+  padding-right: 10px; /* Add padding for better readability */
+  border: 1px solid #ddd; /* Optional: Add a border for better visibility */
+  background-color: #fff; /* Optional: Ensure a consistent background */
+}
+
+/* Optional: Style the scrollbar for modern browsers */
+#checkout-items-list::-webkit-scrollbar {
+  width: 8px;
+}
+
+#checkout-items-list::-webkit-scrollbar-thumb {
+  background-color: #ccc;
+  border-radius: 4px;
+}
+
+#checkout-items-list::-webkit-scrollbar-thumb:hover {
+  background-color: #aaa;
+}
+
