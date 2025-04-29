@@ -62,6 +62,11 @@ function selectShipping(element, shippingCost) {
 
 // Function to complete the purchase
 function completePurchase() {
+    if (checkoutCart.length === 0) {
+        alert('Your cart is empty. Please add items before completing the purchase.');
+        return;
+    }
+
     alert('Thank you for your purchase! Your order has been placed.');
     localStorage.removeItem('checkoutCart'); // Clear the checkout cart
     window.location.href = 'confirmation.html'; // Redirect to a confirmation page
