@@ -1,0 +1,785 @@
+2025-05-02 18:08:45 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-02 18:08:46 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-02 18:08:46 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-02 18:08:46 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-02 18:08:47 - {"action":"update","product_id":1,"quantity_change":-1}
+2025-05-02 18:08:47 - {"action":"update","product_id":1,"quantity_change":-1}
+2025-05-02 18:08:51 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-02 18:08:54 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-02 18:09:05 - {"action":"clear"}
+2025-05-02 18:10:22 - {"action":"clear"}
+2025-05-02 18:10:41 - {"action":"add","product_id":2,"product_name":"4711 Original Eau de Cologne","price":100.99,"quantity":1,"image_url":"../assets/originaleau.jpg"}
+2025-05-02 18:10:42 - {"action":"add","product_id":3,"product_name":"Acqua di Parma","price":90.99,"quantity":1,"image_url":"../assets/acquadiparmia.jpg"}
+2025-05-02 18:10:51 - {"action":"update","product_id":3,"quantity_change":1}
+2025-05-02 18:10:52 - {"action":"update","product_id":2,"quantity_change":1}
+2025-05-02 18:10:56 - {"action":"clear"}
+2025-05-02 18:44:41 - {"action":"remove","product_id":1}
+2025-05-02 18:44:41 - {"action":"remove","product_id":1}
+2025-05-02 18:44:41 - {"action":"remove","product_id":1}
+2025-05-02 18:44:42 - {"action":"remove","product_id":1}
+2025-05-02 18:44:43 - {"action":"clear"}
+2025-05-02 18:45:29 - {"action":"add","product_id":2,"product_name":"4711 Original Eau de Cologne","price":100.99,"quantity":1,"image_url":"../assets/originaleau.jpg"}
+2025-05-02 18:45:35 - {"action":"clear"}
+2025-05-02 18:45:41 - {"action":"add","product_id":3,"product_name":"Acqua di Parma","price":90.99,"quantity":1,"image_url":"../assets/acquadiparmia.jpg"}
+2025-05-02 18:45:42 - {"action":"add","product_id":1,"product_name":"Calvin Klein","price":119.99,"quantity":1,"image_url":"../assets/calvinklein.jpg"}
+2025-05-02 18:45:48 - {"action":"add","product_id":2,"product_name":"4711 Original Eau de Cologne","price":100.99,"quantity":1,"image_url":"../assets/originaleau.jpg"}
+2025-05-02 19:05:03 - {"action":"remove","product_id":2}
+2025-05-02 19:05:04 - {"action":"remove","product_id":1}
+2025-05-02 19:05:05 - {"action":"remove","product_id":3}
+2025-05-02 19:23:41 - {"action":"add","product_id":4,"product_name":"Chanel – Eau de Cologne","price":60.99,"quantity":1,"image_url":"../assets/Chaneleaude.jpg"}
+2025-05-02 19:23:43 - {"action":"add","product_id":5,"product_name":"Guerlain – Eau de Cologne Impériale","price":70.99,"quantity":1,"image_url":"../assets/guerlain.jpg"}
+2025-05-02 19:23:45 - {"action":"add","product_id":6,"product_name":"Jo Malone – Lime Basil & Mandarin Cologne","price":50.99,"quantity":1,"image_url":"../assets/jomalone.jpg"}
+2025-05-02 19:23:48 - {"action":"update","product_id":4,"quantity_change":1}
+2025-05-02 19:23:49 - {"action":"update","product_id":5,"quantity_change":1}
+2025-05-02 19:23:50 - {"action":"update","product_id":6,"quantity_change":1}
+2025-05-02 20:11:29 - {"action":"add","product_id":7,"product_name":"Bleu de Chanel Eau de Parfum","price":88.99,"quantity":1,"image_url":"../assets/bleudechanel.jpg"}
+2025-05-02 20:11:31 - {"action":"add","product_id":8,"product_name":"Paco Rabanne 1 Million Eau de Parfum","price":78.99,"quantity":1,"image_url":"../assets/pacorabanne.jpg"}
+2025-05-02 20:11:33 - {"action":"add","product_id":9,"product_name":"Tom Ford Noir Extreme Eau de Parfum","price":95.99,"quantity":1,"image_url":"../assets/tomford.jpg"}
+2025-05-02 20:11:40 - {"action":"remove","product_id":6}
+2025-05-02 20:11:41 - {"action":"remove","product_id":5}
+2025-05-02 20:11:42 - {"action":"remove","product_id":4}
+2025-05-02 20:12:10 - {"action":"clear"}
+2025-05-02 20:14:16 - {"action":"add","product_id":10,"product_name":"Coco Mademoiselle","price":77.99,"quantity":1,"image_url":"../assets/cocomademoiselle.jpg"}
+2025-05-02 20:14:17 - {"action":"add","product_id":11,"product_name":"Yves Saint Laurent – Libre Eau de Parfum","price":55.99,"quantity":1,"image_url":"../assets/yves.jpg"}
+2025-05-02 20:14:19 - {"action":"add","product_id":12,"product_name":"Lancôme – La Vie Est Belle Eau de Parfum","price":66.99,"quantity":1,"image_url":"../assets/lancome.jpg"}
+2025-05-02 20:14:30 - {"action":"clear"}
+2025-05-02 20:14:38 - {"action":"add","product_id":10,"product_name":"Coco Mademoiselle","price":77.99,"quantity":1,"image_url":"../assets/cocomademoiselle.jpg"}
+2025-05-02 20:14:43 - {"action":"remove","product_id":10}
+2025-05-02 20:29:08 - {"action":"add","product_id":13,"product_name":"Oranzo","price":79.99,"quantity":1,"image_url":"../assets/oranzo.jpg"}
+2025-05-02 20:29:10 - {"action":"add","product_id":14,"product_name":"Versace – Dylan Blue Eau de Toilette","price":69.99,"quantity":1,"image_url":"../assets/versacedylan.jpg"}
+2025-05-02 20:29:11 - {"action":"add","product_id":15,"product_name":"Giorgio Armani – Acqua di Giò Eau de Toilette","price":59.99,"quantity":1,"image_url":"../assets/gioarmani.jpg"}
+2025-05-02 20:29:17 - {"action":"add","product_id":16,"product_name":"Marc Jacobs – Daisy Eau de Toilette","price":54.99,"quantity":1,"image_url":"../assets/daisymarc.jpg"}
+2025-05-02 20:29:19 - {"action":"add","product_id":17,"product_name":"Gucci – Bloom Eau de Toilette","price":84.99,"quantity":1,"image_url":"../assets/guccibloom.jpg"}
+2025-05-02 20:29:22 - {"action":"add","product_id":18,"product_name":"Dolce & Gabbana – Light Blue Eau de Toilette","price":64.99,"quantity":1,"image_url":"../assets/dolce.jpg"}
+2025-05-02 20:29:46 - {"action":"clear"}
+2025-05-02 20:41:53 - {"action":"add","product_id":19,"product_name":"Versace Man Eau Fraiche","price":122.99,"quantity":1,"image_url":"../assets/eauversacefraiche.jpg"}
+2025-05-02 20:41:55 - {"action":"add","product_id":20,"product_name":"Pedro del Hierro Eau Fraiche","price":82.99,"quantity":1,"image_url":"../assets/pedro.jpg"}
+2025-05-02 20:41:57 - {"action":"add","product_id":21,"product_name":"Eisenberg Eau Fraiche","price":72.99,"quantity":1,"image_url":"../assets/eisenberg.jpg"}
+2025-05-02 20:42:00 - {"action":"add","product_id":22,"product_name":"Cucina Fruits & Passion Alo Pink Coconut Eau Fraiche Light","price":88.99,"quantity":1,"image_url":"../assets/cucina.png"}
+2025-05-02 20:42:02 - {"action":"add","product_id":23,"product_name":"Chanel – Chance Eau Fraîche","price":61.99,"quantity":1,"image_url":"../assets/chanelfraiche.jpg"}
+2025-05-02 20:42:04 - {"action":"add","product_id":24,"product_name":"Pure Karen Low Eau de Fraîche","price":71.99,"quantity":1,"image_url":"../assets/KarenLowPureFraiche.jpg"}
+2025-05-02 20:42:18 - {"action":"clear"}
+2025-05-02 21:04:41 - {"action":"add","product_id":25,"product_name":"Dior – Sauvage Elixir","price":120.99,"quantity":1,"image_url":"../assets/Sauvage.jpg"}
+2025-05-02 21:04:43 - {"action":"add","product_id":26,"product_name":"Amouage – Interlude Man Extrait","price":70.99,"quantity":1,"image_url":"../assets/amouageman.jpg"}
+2025-05-02 21:04:47 - {"action":"add","product_id":31,"product_name":"Maison Francis Kurkdjian – Baccarat Rouge 540 Extrait de Parfum","price":60.99,"quantity":1,"image_url":"../assets/MaisonFrancisKurkdjianBaccaratRouge540Extrait.jpg"}
+2025-05-02 21:04:48 - {"action":"add","product_id":32,"product_name":"Amouage – Honour Woman Extrait","price":50.99,"quantity":1,"image_url":"../assets/amouagewoman.jpg"}
+2025-05-02 21:05:29 - {"action":"clear"}
+2025-05-03 12:33:36 - {"action":"add","product_id":1,"product_name":"Calvin Klein","price":119.99,"quantity":1,"image_url":"../assets/calvinklein.jpg"}
+2025-05-03 12:33:38 - {"action":"add","product_id":2,"product_name":"4711 Original Eau de Cologne","price":100.99,"quantity":1,"image_url":"../assets/originaleau.jpg"}
+2025-05-03 12:33:39 - {"action":"add","product_id":3,"product_name":"Acqua di Parma","price":90.99,"quantity":1,"image_url":"../assets/acquadiparmia.jpg"}
+2025-05-03 12:34:19 - {"action":"clear"}
+2025-05-03 12:47:10 - {"action":"add","product_id":2,"product_name":"Ocean Mist","price":104.99,"quantity":1,"image_url":"../assets/Ocean Mist.jpg"}
+2025-05-03 12:47:15 - {"action":"update","product_id":2,"quantity_change":1}
+2025-05-03 12:47:15 - {"action":"update","product_id":2,"quantity_change":1}
+2025-05-03 12:47:15 - {"action":"update","product_id":2,"quantity_change":1}
+2025-05-03 12:47:15 - {"action":"update","product_id":2,"quantity_change":1}
+2025-05-03 12:47:28 - {"action":"clear"}
+2025-05-03 12:54:39 - {"action":"add","product_id":2,"product_name":"Ocean Mist","price":104.99,"quantity":1,"image_url":"../assets/Ocean Mist.jpg"}
+2025-05-03 12:54:41 - {"action":"add","product_id":1,"product_name":"Aqua Bloom","price":99.99,"quantity":1,"image_url":"../assets/Aqua Bloom.jpg"}
+2025-05-03 12:54:46 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 12:54:46 - {"action":"update","product_id":2,"quantity_change":1}
+2025-05-03 12:55:01 - {"action":"clear"}
+2025-05-03 12:55:06 - {"action":"add","product_id":1,"product_name":"Aqua Bloom","price":99.99,"quantity":1,"image_url":"../assets/Aqua Bloom.jpg"}
+2025-05-03 12:55:06 - {"action":"add","product_id":1,"product_name":"Aqua Bloom","price":99.99,"quantity":1,"image_url":"../assets/Aqua Bloom.jpg"}
+2025-05-03 12:55:20 - {"action":"clear"}
+2025-05-03 12:57:22 - {"action":"add","product_id":1,"product_name":"Aqua Bloom","price":99.99,"quantity":1,"image_url":"../assets/Aqua Bloom.jpg"}
+2025-05-03 12:59:01 - {"action":"add","product_id":2,"product_name":"Ocean Mist","price":104.99,"quantity":1,"image_url":"../assets/Ocean Mist.jpg"}
+2025-05-03 12:59:04 - {"action":"update","product_id":2,"quantity_change":1}
+2025-05-03 12:59:04 - {"action":"update","product_id":2,"quantity_change":1}
+2025-05-03 12:59:05 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 12:59:05 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 12:59:05 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 12:59:07 - {"action":"update","product_id":2,"quantity_change":1}
+2025-05-03 12:59:08 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 12:59:08 - {"action":"update","product_id":2,"quantity_change":1}
+2025-05-03 12:59:10 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 12:59:10 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 12:59:10 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 12:59:11 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 12:59:11 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 12:59:11 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 12:59:12 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 12:59:12 - {"action":"update","product_id":1,"quantity_change":-1}
+2025-05-03 12:59:13 - {"action":"update","product_id":1,"quantity_change":-1}
+2025-05-03 12:59:13 - {"action":"update","product_id":1,"quantity_change":-1}
+2025-05-03 12:59:13 - {"action":"update","product_id":1,"quantity_change":-1}
+2025-05-03 12:59:13 - {"action":"update","product_id":1,"quantity_change":-1}
+2025-05-03 12:59:13 - {"action":"update","product_id":1,"quantity_change":-1}
+2025-05-03 12:59:14 - {"action":"update","product_id":1,"quantity_change":-1}
+2025-05-03 12:59:14 - {"action":"update","product_id":1,"quantity_change":-1}
+2025-05-03 12:59:14 - {"action":"update","product_id":1,"quantity_change":-1}
+2025-05-03 12:59:14 - {"action":"update","product_id":1,"quantity_change":-1}
+2025-05-03 12:59:14 - {"action":"update","product_id":1,"quantity_change":-1}
+2025-05-03 12:59:16 - {"action":"update","product_id":1,"quantity_change":-1}
+2025-05-03 12:59:16 - {"action":"update","product_id":2,"quantity_change":-1}
+2025-05-03 12:59:17 - {"action":"update","product_id":2,"quantity_change":-1}
+2025-05-03 12:59:17 - {"action":"update","product_id":2,"quantity_change":-1}
+2025-05-03 12:59:18 - {"action":"update","product_id":2,"quantity_change":-1}
+2025-05-03 12:59:18 - {"action":"update","product_id":2,"quantity_change":-1}
+2025-05-03 12:59:19 - {"action":"clear"}
+2025-05-03 13:06:13 - {"action":"add","product_id":1,"product_name":"Calvin Klein","price":119.99,"quantity":1,"image_url":"../assets/calvinklein.jpg"}
+2025-05-03 13:06:45 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 13:06:45 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 13:06:46 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 13:06:46 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 13:06:46 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 13:06:46 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 13:06:47 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 13:06:47 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 13:06:47 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 13:06:49 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 13:06:49 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 13:06:49 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 13:06:49 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 13:06:50 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 13:06:50 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 13:06:50 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 13:06:50 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 13:06:50 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 13:06:51 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 13:06:51 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 13:06:51 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 13:06:51 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 13:06:52 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 13:06:52 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 13:06:53 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 13:06:54 - {"action":"remove","product_id":1}
+2025-05-03 13:09:33 - {"action":"add","product_id":1,"product_name":"Aqua Bloom","price":99.99,"quantity":1,"image_url":"../assets/Aqua Bloom.jpg"}
+2025-05-03 13:09:44 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 13:09:44 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 13:09:45 - {"action":"update","product_id":1,"quantity_change":1}
+2025-05-03 13:09:51 - {"action":"clear"}
+2025-05-03 13:15:11 - {"action":"add","product_id":2,"product_name":"Ocean Mist","price":104.99,"quantity":1,"image_url":"../assets/Ocean Mist.jpg"}
+2025-05-03 13:15:15 - {"action":"clear"}
+2025-05-03 13:51:03 - {"action":"add","product_id":1,"product_name":"Calvin Klein","price":119.99,"quantity":1,"image_url":"../assets/calvinklein.jpg"}
+2025-05-03 14:05:27 - {"action":"add","product_id":2,"product_name":"4711 Original Eau de Cologne","price":100.99,"quantity":1,"image_url":"../assets/originaleau.jpg"}
+2025-05-03 14:05:47 - {"action":"remove","product_id":1}
+2025-05-03 14:05:47 - {"action":"remove","product_id":2}
+2025-05-03 14:13:33 - {"action":"add","product_id":2,"product_name":"Ocean Mist","price":104.99,"quantity":1,"image_url":"../assets/Ocean Mist.jpg"}
+2025-05-03 14:13:33 - {"action":"add","product_id":1,"product_name":"Aqua Bloom","price":99.99,"quantity":1,"image_url":"../assets/Aqua Bloom.jpg"}
+2025-05-03 14:13:41 - {"action":"add","product_id":1,"product_name":"Calvin Klein","price":119.99,"quantity":1,"image_url":"../assets/calvinklein.jpg"}
+2025-05-03 14:13:47 - {"action":"add","product_id":1,"product_name":"Calvin Klein","price":119.99,"quantity":1,"image_url":"../assets/calvinklein.jpg"}
+2025-05-03 14:13:54 - {"action":"clear"}
+2025-05-03 14:13:56 - {"action":"add","product_id":1,"product_name":"Calvin Klein","price":119.99,"quantity":1,"image_url":"../assets/calvinklein.jpg"}
+2025-05-03 14:14:03 - {"action":"add","product_id":2,"product_name":"Ocean Mist","price":104.99,"quantity":1,"image_url":"../assets/Ocean Mist.jpg"}
+2025-05-03 14:14:07 - {"action":"clear"}
+2025-05-03 14:19:28 - {"action":"add","product_id":1,"product_name":"Calvin Klein","price":119.99,"quantity":1,"image_url":"../assets/calvinklein.jpg"}
+2025-05-03 14:19:41 - {"action":"add","product_id":1,"product_name":"Calvin Klein","price":119.99,"quantity":1,"image_url":"../assets/calvinklein.jpg"}
+2025-05-03 14:19:47 - {"action":"add","product_id":1,"product_name":"Calvin Klein","price":119.99,"quantity":1,"image_url":"../assets/calvinklein.jpg"}
+2025-05-03 14:19:57 - {"action":"add","product_id":1,"product_name":"Calvin Klein","price":119.99,"quantity":1,"image_url":"../assets/calvinklein.jpg"}
+2025-05-03 14:21:55 - {"action":"add","product_id":1,"product_name":"Calvin Klein","price":119.99,"quantity":1,"image_url":"../assets/calvinklein.jpg"}
+2025-05-03 14:23:38 - {"action":"add","product_id":1,"product_name":"Calvin Klein","price":119.99,"quantity":1,"image_url":"../assets/calvinklein.jpg"}
+2025-05-03 14:23:45 - {"action":"add","product_id":2,"product_name":"4711 Original Eau de Cologne","price":100.99,"quantity":1,"image_url":"../assets/originaleau.jpg"}
+2025-05-03 14:23:49 - {"action":"add","product_id":3,"product_name":"Acqua di Parma","price":90.99,"quantity":1,"image_url":"../assets/acquadiparmia.jpg"}
+2025-05-03 14:24:19 - {"action":"clear"}
+2025-05-03 14:33:15 - {"action":"clear"}
+2025-05-03 14:44:34 - {"action":"add","product_id":1,"product_name":"Calvin Klein","price":119.99,"quantity":1,"image_url":"../assets/calvinklein.jpg"}
+2025-05-03 14:44:43 - {"action":"update","product_id":1,"quantity_change":-900,"new_quantity":100}
+2025-05-03 14:44:52 - {"action":"update","product_id":1,"quantity_change":-99999999900,"new_quantity":100}
+2025-05-03 14:45:04 - {"action":"remove","product_id":1}
+2025-05-03 14:45:09 - {"action":"add","product_id":4,"product_name":"Chanel – Eau de Cologne","price":60.99,"quantity":1,"image_url":"../assets/Chaneleaude.jpg"}
+2025-05-03 14:45:18 - {"action":"update","product_id":4,"quantity_change":-900,"new_quantity":100}
+2025-05-03 14:50:21 - {"action":"add","product_id":1,"product_name":"Calvin Klein","price":119.99,"quantity":1,"image_url":"../assets/calvinklein.jpg"}
+2025-05-03 14:50:25 - {"action":"add","product_id":2,"product_name":"4711 Original Eau de Cologne","price":100.99,"quantity":1,"image_url":"../assets/originaleau.jpg"}
+2025-05-03 14:50:51 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":2}
+2025-05-03 14:50:51 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":3}
+2025-05-03 14:50:53 - {"action":"update","product_id":2,"quantity_change":1,"new_quantity":2}
+2025-05-03 14:50:53 - {"action":"update","product_id":2,"quantity_change":1,"new_quantity":3}
+2025-05-03 14:50:54 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":4}
+2025-05-03 14:50:55 - {"action":"update","product_id":2,"quantity_change":1,"new_quantity":4}
+2025-05-03 14:50:55 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":5}
+2025-05-03 14:50:56 - {"action":"update","product_id":2,"quantity_change":1,"new_quantity":5}
+2025-05-03 14:51:04 - {"action":"update","product_id":2,"quantity_change":-9900,"new_quantity":100}
+2025-05-03 14:51:10 - {"action":"update","product_id":2,"quantity_change":-1,"new_quantity":99}
+2025-05-03 14:51:10 - {"action":"update","product_id":2,"quantity_change":-1,"new_quantity":99}
+2025-05-03 14:51:11 - {"action":"update","product_id":2,"quantity_change":-1,"new_quantity":99}
+2025-05-03 14:51:11 - {"action":"update","product_id":2,"quantity_change":-1,"new_quantity":99}
+2025-05-03 14:51:11 - {"action":"update","product_id":2,"quantity_change":-1,"new_quantity":99}
+2025-05-03 14:51:15 - {"action":"clear"}
+2025-05-03 14:51:42 - {"action":"add","product_id":1,"product_name":"Aqua Bloom","price":99.99,"quantity":1,"image_url":"../assets/Aqua Bloom.jpg"}
+2025-05-03 14:51:48 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":2}
+2025-05-03 14:51:48 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":3}
+2025-05-03 14:51:48 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":4}
+2025-05-03 14:51:48 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":5}
+2025-05-03 14:51:48 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":6}
+2025-05-03 14:51:53 - {"action":"update","product_id":1,"quantity_change":-1,"new_quantity":11}
+2025-05-03 14:51:53 - {"action":"update","product_id":1,"quantity_change":-1,"new_quantity":10}
+2025-05-03 14:51:54 - {"action":"update","product_id":1,"quantity_change":-1,"new_quantity":9}
+2025-05-03 14:51:54 - {"action":"update","product_id":1,"quantity_change":-1,"new_quantity":8}
+2025-05-03 14:51:54 - {"action":"update","product_id":1,"quantity_change":-1,"new_quantity":7}
+2025-05-03 14:51:54 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":8}
+2025-05-03 14:51:55 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":9}
+2025-05-03 14:51:55 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":10}
+2025-05-03 14:51:55 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":11}
+2025-05-03 14:51:55 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":12}
+2025-05-03 14:51:55 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":13}
+2025-05-03 14:51:55 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":14}
+2025-05-03 14:51:57 - {"action":"update","product_id":1,"quantity_change":-1,"new_quantity":13}
+2025-05-03 14:51:57 - {"action":"update","product_id":1,"quantity_change":-1,"new_quantity":12}
+2025-05-03 14:51:57 - {"action":"update","product_id":1,"quantity_change":-1,"new_quantity":11}
+2025-05-03 14:52:16 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":6}
+2025-05-03 14:52:16 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":7}
+2025-05-03 14:52:17 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":8}
+2025-05-03 14:52:17 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":9}
+2025-05-03 14:52:18 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":10}
+2025-05-03 14:52:41 - {"action":"clear"}
+2025-05-03 14:53:30 - {"action":"add","product_id":1,"product_name":"Calvin Klein","price":119.99,"quantity":1,"image_url":"../assets/calvinklein.jpg"}
+2025-05-03 14:54:04 - {"action":"clear"}
+2025-05-03 14:57:21 - {"action":"add","product_id":1,"product_name":"Calvin Klein","price":119.99,"quantity":1,"image_url":"../assets/calvinklein.jpg"}
+2025-05-03 14:57:27 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":2}
+2025-05-03 14:57:28 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":3}
+2025-05-03 14:57:28 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":4}
+2025-05-03 14:57:29 - {"action":"update","product_id":1,"quantity_change":-1,"new_quantity":3}
+2025-05-03 15:04:10 - {"action":"add","product_id":1,"product_name":"Calvin Klein","price":119.99,"quantity":1,"image_url":"../assets/calvinklein.jpg"}
+2025-05-03 15:04:14 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":5}
+2025-05-03 15:04:14 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":6}
+2025-05-03 15:04:14 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":7}
+2025-05-03 15:04:15 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":8}
+2025-05-03 15:04:15 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":9}
+2025-05-03 15:04:15 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":10}
+2025-05-03 15:04:15 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":11}
+2025-05-03 15:04:15 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":12}
+2025-05-03 15:04:18 - {"action":"clear"}
+2025-05-03 15:07:16 - {"action":"add","product_id":1,"product_name":"Aqua Bloom","price":99.99,"quantity":1,"image_url":"../assets/Aqua Bloom.jpg"}
+2025-05-03 15:07:22 - {"action":"remove","product_id":1}
+2025-05-03 15:07:29 - {"action":"add","product_id":2,"product_name":"Ocean Mist","price":104.99,"quantity":1,"image_url":"../assets/Ocean Mist.jpg"}
+2025-05-03 15:07:34 - {"action":"clear"}
+2025-05-03 15:07:49 - {"action":"add","product_id":1,"product_name":"Calvin Klein","price":119.99,"quantity":1,"image_url":"../assets/calvinklein.jpg"}
+2025-05-03 15:15:15 - {"action":"clear"}
+2025-05-03 15:15:16 - {"action":"clear"}
+2025-05-03 15:15:25 - {"action":"add","product_id":1,"product_name":"Calvin Klein","price":119.99,"quantity":1,"image_url":"../assets/calvinklein.jpg"}
+2025-05-03 15:15:29 - {"action":"clear"}
+2025-05-03 15:18:10 - {"action":"add","product_id":1,"product_name":"Calvin Klein","price":119.99,"quantity":1,"image_url":"../assets/calvinklein.jpg"}
+2025-05-03 15:18:14 - {"action":"clear"}
+2025-05-03 15:20:48 - {"action":"add","product_id":1,"product_name":"Calvin Klein","price":119.99,"quantity":1,"image_url":"../assets/calvinklein.jpg"}
+2025-05-03 15:20:51 - {"action":"add","product_id":2,"product_name":"4711 Original Eau de Cologne","price":100.99,"quantity":1,"image_url":"../assets/originaleau.jpg"}
+2025-05-03 15:21:02 - {"action":"clear"}
+2025-05-03 15:25:24 - {"action":"add","product_id":1,"product_name":"Calvin Klein","price":119.99,"quantity":1,"image_url":"../assets/calvinklein.jpg"}
+2025-05-03 15:26:01 - {"action":"clear"}
+2025-05-03 15:32:15 - {"action":"add","product_id":4,"product_name":"Chanel – Eau de Cologne","price":60.99,"quantity":1,"image_url":"../assets/Chaneleaude.jpg"}
+2025-05-03 15:32:21 - {"action":"update","product_id":4,"quantity_change":1,"new_quantity":2}
+2025-05-03 15:32:21 - {"action":"update","product_id":4,"quantity_change":1,"new_quantity":3}
+2025-05-03 15:32:22 - {"action":"update","product_id":4,"quantity_change":1,"new_quantity":4}
+2025-05-03 15:32:22 - {"action":"update","product_id":4,"quantity_change":1,"new_quantity":5}
+2025-05-03 15:32:22 - {"action":"update","product_id":4,"quantity_change":1,"new_quantity":6}
+2025-05-03 15:32:22 - {"action":"update","product_id":4,"quantity_change":1,"new_quantity":7}
+2025-05-03 15:32:23 - {"action":"update","product_id":4,"quantity_change":1,"new_quantity":8}
+2025-05-03 15:32:23 - {"action":"update","product_id":4,"quantity_change":1,"new_quantity":9}
+2025-05-03 15:32:23 - {"action":"update","product_id":4,"quantity_change":1,"new_quantity":10}
+2025-05-03 15:32:23 - {"action":"update","product_id":4,"quantity_change":1,"new_quantity":11}
+2025-05-03 15:32:24 - {"action":"update","product_id":4,"quantity_change":-1,"new_quantity":10}
+2025-05-03 15:32:32 - {"action":"clear"}
+2025-05-03 15:32:53 - {"action":"add","product_id":4,"product_name":"Chanel – Eau de Cologne","price":60.99,"quantity":1,"image_url":"../assets/Chaneleaude.jpg"}
+2025-05-03 15:33:00 - {"action":"clear"}
+2025-05-03 15:47:02 - {"action":"add","product_id":4,"product_name":"Chanel – Eau de Cologne","price":60.99,"quantity":1,"image_url":"../assets/Chaneleaude.jpg"}
+2025-05-03 15:47:33 - {"action":"add","product_id":22,"product_name":"Cucina Fruits & Passion Alo Pink Coconut Eau Fraiche Light","price":88.99,"quantity":1,"image_url":"../assets/cucina.png"}
+2025-05-03 15:47:39 - {"action":"remove","product_id":4}
+2025-05-03 15:47:42 - {"action":"update","product_id":22,"quantity_change":1,"new_quantity":2}
+2025-05-03 15:47:42 - {"action":"update","product_id":22,"quantity_change":1,"new_quantity":3}
+2025-05-03 15:47:42 - {"action":"update","product_id":22,"quantity_change":1,"new_quantity":4}
+2025-05-03 15:47:43 - {"action":"update","product_id":22,"quantity_change":-1,"new_quantity":3}
+2025-05-03 15:47:43 - {"action":"update","product_id":22,"quantity_change":-1,"new_quantity":2}
+2025-05-03 15:47:43 - {"action":"update","product_id":22,"quantity_change":-1,"new_quantity":1}
+2025-05-03 15:48:00 - {"action":"update","product_id":22,"quantity_change":1,"new_quantity":2}
+2025-05-03 15:48:01 - {"action":"update","product_id":22,"quantity_change":1,"new_quantity":3}
+2025-05-03 15:48:01 - {"action":"update","product_id":22,"quantity_change":1,"new_quantity":4}
+2025-05-03 15:48:01 - {"action":"update","product_id":22,"quantity_change":1,"new_quantity":5}
+2025-05-03 15:48:01 - {"action":"update","product_id":22,"quantity_change":1,"new_quantity":6}
+2025-05-03 15:48:01 - {"action":"update","product_id":22,"quantity_change":1,"new_quantity":7}
+2025-05-03 15:48:02 - {"action":"update","product_id":22,"quantity_change":1,"new_quantity":8}
+2025-05-03 15:48:02 - {"action":"update","product_id":22,"quantity_change":1,"new_quantity":9}
+2025-05-03 15:48:02 - {"action":"update","product_id":22,"quantity_change":1,"new_quantity":10}
+2025-05-03 15:48:02 - {"action":"update","product_id":22,"quantity_change":1,"new_quantity":11}
+2025-05-03 15:48:02 - {"action":"update","product_id":22,"quantity_change":1,"new_quantity":12}
+2025-05-03 15:48:02 - {"action":"update","product_id":22,"quantity_change":1,"new_quantity":13}
+2025-05-03 15:48:03 - {"action":"update","product_id":22,"quantity_change":1,"new_quantity":14}
+2025-05-03 15:48:03 - {"action":"update","product_id":22,"quantity_change":1,"new_quantity":15}
+2025-05-03 15:48:03 - {"action":"update","product_id":22,"quantity_change":1,"new_quantity":16}
+2025-05-03 15:48:03 - {"action":"update","product_id":22,"quantity_change":1,"new_quantity":17}
+2025-05-03 15:48:03 - {"action":"update","product_id":22,"quantity_change":1,"new_quantity":18}
+2025-05-03 15:48:03 - {"action":"update","product_id":22,"quantity_change":1,"new_quantity":19}
+2025-05-03 15:48:03 - {"action":"update","product_id":22,"quantity_change":1,"new_quantity":20}
+2025-05-03 15:48:03 - {"action":"update","product_id":22,"quantity_change":1,"new_quantity":21}
+2025-05-03 15:48:03 - {"action":"update","product_id":22,"quantity_change":1,"new_quantity":22}
+2025-05-03 15:48:03 - {"action":"update","product_id":22,"quantity_change":1,"new_quantity":23}
+2025-05-03 15:48:04 - {"action":"update","product_id":22,"quantity_change":1,"new_quantity":24}
+2025-05-03 15:48:04 - {"action":"update","product_id":22,"quantity_change":1,"new_quantity":25}
+2025-05-03 15:48:04 - {"action":"update","product_id":22,"quantity_change":1,"new_quantity":26}
+2025-05-03 15:48:04 - {"action":"update","product_id":22,"quantity_change":1,"new_quantity":27}
+2025-05-03 15:48:04 - {"action":"update","product_id":22,"quantity_change":1,"new_quantity":28}
+2025-05-03 15:48:04 - {"action":"update","product_id":22,"quantity_change":1,"new_quantity":29}
+2025-05-03 15:48:04 - {"action":"update","product_id":22,"quantity_change":1,"new_quantity":30}
+2025-05-03 15:48:04 - {"action":"update","product_id":22,"quantity_change":1,"new_quantity":31}
+2025-05-03 15:48:05 - {"action":"update","product_id":22,"quantity_change":1,"new_quantity":32}
+2025-05-03 15:48:05 - {"action":"update","product_id":22,"quantity_change":1,"new_quantity":33}
+2025-05-03 15:48:05 - {"action":"update","product_id":22,"quantity_change":1,"new_quantity":34}
+2025-05-03 15:48:12 - {"action":"remove","product_id":22}
+2025-05-03 15:55:59 - {"action":"add","product_id":16,"product_name":"Marc Jacobs – Daisy Eau de Toilette","price":54.99,"quantity":1,"image_url":"../assets/daisymarc.jpg"}
+2025-05-03 15:56:04 - {"action":"update","product_id":16,"quantity_change":1,"new_quantity":2}
+2025-05-03 15:56:05 - {"action":"update","product_id":16,"quantity_change":1,"new_quantity":3}
+2025-05-03 15:56:05 - {"action":"update","product_id":16,"quantity_change":1,"new_quantity":4}
+2025-05-03 15:56:05 - {"action":"update","product_id":16,"quantity_change":1,"new_quantity":5}
+2025-05-03 15:56:08 - {"action":"clear"}
+2025-05-03 16:03:04 - {"action":"add","product_id":10,"product_name":"Coco Mademoiselle","price":77.99,"quantity":1,"image_url":"../assets/cocomademoiselle.jpg"}
+2025-05-03 16:03:08 - {"action":"update","product_id":10,"quantity_change":1,"new_quantity":2}
+2025-05-03 16:03:08 - {"action":"update","product_id":10,"quantity_change":1,"new_quantity":3}
+2025-05-03 16:03:08 - {"action":"update","product_id":10,"quantity_change":1,"new_quantity":4}
+2025-05-03 16:03:10 - {"action":"clear"}
+2025-05-03 16:08:12 - {"action":"add","product_id":19,"product_name":"Versace Man Eau Fraiche","price":122.99,"quantity":1,"image_url":"../assets/eauversacefraiche.jpg"}
+2025-05-03 16:08:22 - {"action":"add","product_id":19,"product_name":"Versace Man Eau Fraiche","price":122.99,"quantity":1,"image_url":"../assets/eauversacefraiche.jpg"}
+2025-05-03 16:09:32 - {"action":"add","product_id":19,"product_name":"Versace Man Eau Fraiche","price":122.99,"quantity":1,"image_url":"../assets/eauversacefraiche.jpg"}
+2025-05-03 16:09:36 - {"action":"clear"}
+2025-05-03 16:14:44 - {"action":"add","product_id":31,"product_name":"Maison Francis Kurkdjian – Baccarat Rouge 540 Extrait de Parfum","price":60.99,"quantity":1,"image_url":"../assets/MaisonFrancisKurkdjianBaccaratRouge540Extrait.jpg"}
+2025-05-03 16:14:49 - {"action":"update","product_id":31,"quantity_change":1,"new_quantity":2}
+2025-05-03 16:14:49 - {"action":"update","product_id":31,"quantity_change":1,"new_quantity":3}
+2025-05-03 16:14:49 - {"action":"update","product_id":31,"quantity_change":1,"new_quantity":4}
+2025-05-03 16:14:50 - {"action":"update","product_id":31,"quantity_change":1,"new_quantity":5}
+2025-05-03 16:14:50 - {"action":"update","product_id":31,"quantity_change":1,"new_quantity":6}
+2025-05-03 16:14:50 - {"action":"update","product_id":31,"quantity_change":1,"new_quantity":7}
+2025-05-03 16:14:50 - {"action":"update","product_id":31,"quantity_change":1,"new_quantity":8}
+2025-05-03 16:14:50 - {"action":"update","product_id":31,"quantity_change":1,"new_quantity":9}
+2025-05-03 16:14:50 - {"action":"update","product_id":31,"quantity_change":1,"new_quantity":10}
+2025-05-03 16:14:56 - {"action":"clear"}
+2025-05-03 16:19:24 - {"action":"add","product_id":13,"product_name":"Oranzo","price":79.99,"quantity":1,"image_url":"../assets/oranzo.jpg"}
+2025-05-03 16:19:29 - {"action":"remove","product_id":13}
+2025-05-03 16:19:40 - {"action":"add","product_id":13,"product_name":"Oranzo","price":79.99,"quantity":1,"image_url":"../assets/oranzo.jpg"}
+2025-05-03 16:19:45 - {"action":"clear"}
+2025-05-03 16:27:32 - {"action":"add","product_id":25,"product_name":"Dior – Sauvage Elixir","price":120.99,"quantity":1,"image_url":"../assets/Sauvage.jpg"}
+2025-05-03 16:27:36 - {"action":"clear"}
+2025-05-03 16:33:19 - {"action":"add","product_id":7,"product_name":"Bleu de Chanel Eau de Parfum","price":88.99,"quantity":1,"image_url":"../assets/bleudechanel.jpg"}
+2025-05-03 16:33:21 - {"action":"add","product_id":8,"product_name":"Paco Rabanne 1 Million Eau de Parfum","price":78.99,"quantity":1,"image_url":"../assets/pacorabanne.jpg"}
+2025-05-03 16:33:22 - {"action":"add","product_id":9,"product_name":"Tom Ford Noir Extreme Eau de Parfum","price":95.99,"quantity":1,"image_url":"../assets/tomford.jpg"}
+2025-05-03 16:33:27 - {"action":"clear"}
+2025-05-03 16:41:30 - {"action":"add","product_id":1,"product_name":"Calvin Klein","price":119.99,"quantity":1,"image_url":"../assets/calvinklein.jpg"}
+2025-05-03 16:41:33 - {"action":"add","product_id":2,"product_name":"4711 Original Eau de Cologne","price":100.99,"quantity":1,"image_url":"../assets/originaleau.jpg"}
+2025-05-03 16:41:34 - {"action":"add","product_id":3,"product_name":"Acqua di Parma","price":90.99,"quantity":1,"image_url":"../assets/acquadiparmia.jpg"}
+2025-05-03 16:42:28 - {"action":"update","product_id":1,"quantity_change":-900,"new_quantity":100}
+2025-05-03 16:42:35 - {"action":"update","product_id":1,"quantity_change":-1,"new_quantity":99}
+2025-05-03 16:42:36 - {"action":"update","product_id":1,"quantity_change":-1,"new_quantity":99}
+2025-05-03 16:42:45 - {"action":"clear"}
+2025-05-03 16:42:56 - {"action":"add","product_id":10,"product_name":"Coco Mademoiselle","price":77.99,"quantity":1,"image_url":"../assets/cocomademoiselle.jpg"}
+2025-05-03 16:42:57 - {"action":"add","product_id":11,"product_name":"Yves Saint Laurent – Libre Eau de Parfum","price":55.99,"quantity":1,"image_url":"../assets/yves.jpg"}
+2025-05-03 16:42:58 - {"action":"add","product_id":12,"product_name":"Lancôme – La Vie Est Belle Eau de Parfum","price":66.99,"quantity":1,"image_url":"../assets/lancome.jpg"}
+2025-05-03 16:43:18 - {"action":"add","product_id":2,"product_name":"Ocean Mist","price":104.99,"quantity":1,"image_url":"../assets/Ocean Mist.jpg"}
+2025-05-03 16:43:26 - {"action":"add","product_id":2,"product_name":"Ocean Mist","price":104.99,"quantity":1,"image_url":"../assets/Ocean Mist.jpg"}
+2025-05-03 16:43:27 - {"action":"add","product_id":1,"product_name":"Aqua Bloom","price":99.99,"quantity":1,"image_url":"../assets/Aqua Bloom.jpg"}
+2025-05-03 16:43:34 - {"action":"clear"}
+2025-05-03 18:08:45 - {"action":"add","product_id":35,"product_name":"Falling Leaves","price":88,"quantity":1,"image_url":"../assets/Falling Leaves.jpg"}
+2025-05-03 18:08:47 - {"action":"add","product_id":34,"product_name":"Pumpkin Spice","price":81.5,"quantity":1,"image_url":"../assets/Pumpkin Spice.jpg"}
+2025-05-03 18:08:48 - {"action":"add","product_id":33,"product_name":"Spiced Apple Cider","price":76.99,"quantity":1,"image_url":"../assets/Spiced Apple Cider.jpg"}
+2025-05-03 18:12:06 - {"action":"update","product_id":35,"quantity_change":1,"new_quantity":2}
+2025-05-03 18:12:06 - {"action":"update","product_id":35,"quantity_change":1,"new_quantity":3}
+2025-05-03 18:12:06 - {"action":"update","product_id":35,"quantity_change":1,"new_quantity":4}
+2025-05-03 18:12:07 - {"action":"update","product_id":35,"quantity_change":1,"new_quantity":5}
+2025-05-03 18:12:07 - {"action":"update","product_id":34,"quantity_change":1,"new_quantity":2}
+2025-05-03 18:12:07 - {"action":"update","product_id":34,"quantity_change":1,"new_quantity":3}
+2025-05-03 18:12:08 - {"action":"update","product_id":34,"quantity_change":1,"new_quantity":4}
+2025-05-03 18:12:09 - {"action":"update","product_id":34,"quantity_change":1,"new_quantity":5}
+2025-05-03 18:12:10 - {"action":"update","product_id":33,"quantity_change":1,"new_quantity":2}
+2025-05-03 18:12:10 - {"action":"update","product_id":33,"quantity_change":1,"new_quantity":3}
+2025-05-03 18:12:10 - {"action":"update","product_id":33,"quantity_change":1,"new_quantity":4}
+2025-05-03 18:12:10 - {"action":"update","product_id":33,"quantity_change":1,"new_quantity":5}
+2025-05-03 18:12:14 - {"action":"clear"}
+2025-05-03 18:12:32 - {"action":"add","product_id":38,"product_name":"Maple Woods","price":89.5,"quantity":1,"image_url":"../assets/Maple Woods.jpg"}
+2025-05-03 18:12:34 - {"action":"add","product_id":37,"product_name":"Hazelnut Coffee","price":84.99,"quantity":1,"image_url":"../assets/Hazelnut Coffee.jpg"}
+2025-05-03 18:12:34 - {"action":"add","product_id":36,"product_name":"Cranberry Harvest","price":79,"quantity":1,"image_url":"../assets/Cranberry Harvest.jpg"}
+2025-05-03 18:12:45 - {"action":"clear"}
+2025-05-03 18:13:30 - {"action":"add","product_id":34,"product_name":"Pumpkin Spice","price":81.5,"quantity":1,"image_url":"../assets/Pumpkin Spice.jpg"}
+2025-05-03 18:13:30 - {"action":"add","product_id":33,"product_name":"Spiced Apple Cider","price":76.99,"quantity":1,"image_url":"../assets/Spiced Apple Cider.jpg"}
+2025-05-03 18:13:57 - {"action":"add","product_id":1,"product_name":"Calvin Klein","price":119.99,"quantity":1,"image_url":"../assets/calvinklein.jpg"}
+2025-05-03 18:14:28 - {"action":"clear"}
+2025-05-03 18:25:26 - {"action":"add","product_id":1,"product_name":"Aqua Bloom","price":99.99,"quantity":1,"image_url":"../assets/Aqua Bloom.jpg"}
+2025-05-03 18:25:29 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":2}
+2025-05-03 18:25:29 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":3}
+2025-05-03 18:25:30 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":4}
+2025-05-03 18:25:30 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":5}
+2025-05-03 18:25:30 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":6}
+2025-05-03 18:25:34 - {"action":"update","product_id":1,"quantity_change":-900,"new_quantity":100}
+2025-05-03 18:25:42 - {"action":"update","product_id":1,"quantity_change":-1,"new_quantity":99}
+2025-05-03 18:25:45 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":2}
+2025-05-03 18:25:46 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":2}
+2025-05-03 18:25:46 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":2}
+2025-05-03 18:25:46 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":2}
+2025-05-03 18:25:46 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":2}
+2025-05-03 18:25:47 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":2}
+2025-05-03 18:25:50 - {"action":"clear"}
+2025-05-03 18:25:53 - {"action":"remove","product_id":1}
+2025-05-03 18:25:55 - {"action":"remove","product_id":1}
+2025-05-03 18:25:58 - {"action":"remove","product_id":1}
+2025-05-03 18:28:43 - {"action":"clear"}
+2025-05-03 18:30:35 - {"action":"add","product_id":33,"product_name":"Spiced Apple Cider","price":76.99,"quantity":1,"image_url":"../assets/Spiced Apple Cider.jpg"}
+2025-05-03 18:30:38 - {"action":"update","product_id":33,"quantity_change":1,"new_quantity":2}
+2025-05-03 18:30:44 - {"action":"update","product_id":33,"quantity_change":1,"new_quantity":3}
+2025-05-03 18:30:44 - {"action":"update","product_id":33,"quantity_change":1,"new_quantity":4}
+2025-05-03 18:30:44 - {"action":"update","product_id":33,"quantity_change":1,"new_quantity":5}
+2025-05-03 18:30:44 - {"action":"update","product_id":33,"quantity_change":1,"new_quantity":6}
+2025-05-03 18:30:44 - {"action":"update","product_id":33,"quantity_change":1,"new_quantity":7}
+2025-05-03 18:30:49 - {"action":"remove","product_id":33}
+2025-05-03 18:58:23 - {"action":"add","product_id":40,"product_name":"Lune Sauvage","price":81.5,"quantity":1,"image_url":"../assets/Lune Sauvage.jpg"}
+2025-05-03 18:58:26 - {"action":"update","product_id":40,"quantity_change":1,"new_quantity":2}
+2025-05-03 18:58:26 - {"action":"update","product_id":40,"quantity_change":1,"new_quantity":3}
+2025-05-03 18:58:26 - {"action":"update","product_id":40,"quantity_change":1,"new_quantity":4}
+2025-05-03 18:58:35 - {"action":"remove","product_id":40}
+2025-05-03 18:59:09 - {"action":"add","product_id":40,"product_name":"Lune Sauvage","price":81.5,"quantity":1,"image_url":"../assets/Lune Sauvage.jpg"}
+2025-05-03 19:08:19 - {"action":"add","product_id":42,"product_name":"Driftwood Muse","price":81.5,"quantity":1,"image_url":"../assets/Driftwood Muse.jpg"}
+2025-05-03 19:08:33 - {"action":"add","product_id":41,"product_name":"Golden Zephyr","price":76.99,"quantity":1,"image_url":"../assets/Golden Zephyr.jpg"}
+2025-05-03 19:08:45 - {"action":"clear"}
+2025-05-03 19:18:53 - {"action":"add","product_id":44,"product_name":"Saffron Mirage","price":81.5,"quantity":1,"image_url":"../assets/Saffron Mirage.jpg"}
+2025-05-03 19:19:05 - {"action":"remove","product_id":44}
+2025-05-03 19:25:26 - {"action":"add","product_id":45,"product_name":"Silver Breeze","price":76.99,"quantity":1,"image_url":"../assets/Silver Breeze.jpg"}
+2025-05-03 19:25:47 - {"action":"clear"}
+2025-05-03 19:36:55 - {"action":"add","product_id":47,"product_name":"Citrus Burst","price":85.5,"quantity":1,"image_url":"../assets/Citrus Burst.jpg"}
+2025-05-03 19:37:06 - {"action":"add","product_id":46,"product_name":"Spring Bloom","price":79.99,"quantity":1,"image_url":"../assets/Spring Bloom.jpg"}
+2025-05-03 19:37:11 - {"action":"clear"}
+2025-05-03 19:44:40 - {"action":"add","product_id":53,"product_name":"Elegance","price":85.5,"quantity":1,"image_url":"../assets/Eau de Parfum.jpg"}
+2025-05-03 19:44:46 - {"action":"add","product_id":52,"product_name":"Crimson Oath","price":79.99,"quantity":1,"image_url":"../assets/Crimson Oath.jpg"}
+2025-05-03 19:44:55 - {"action":"clear"}
+2025-05-03 19:59:10 - {"action":"add","product_id":54,"product_name":"Azure Bloom","price":79.99,"quantity":1,"image_url":"../assets/Azure Bloom.jpg"}
+2025-05-03 19:59:11 - {"action":"add","product_id":55,"product_name":"Legend","price":85.5,"quantity":1,"image_url":"../assets/Eau de Toilette.jpg"}
+2025-05-03 19:59:20 - {"action":"clear"}
+2025-05-03 20:08:24 - {"action":"add","product_id":57,"product_name":"Seafoam Echo","price":85.5,"quantity":1,"image_url":"../assets/Seafoam Echo.jpg"}
+2025-05-03 20:08:29 - {"action":"add","product_id":56,"product_name":"Viva Verde","price":79.99,"quantity":1,"image_url":"../assets/Viva Verde.jpg"}
+2025-05-03 20:08:42 - {"action":"clear"}
+2025-05-03 20:15:00 - {"action":"add","product_id":59,"product_name":"Crystal Fern","price":85.5,"quantity":1,"image_url":"../assets/Crystal Fern.jpg"}
+2025-05-03 20:15:00 - {"action":"add","product_id":58,"product_name":"Ciel Clair","price":79.99,"quantity":1,"image_url":"../assets/Ciel Clair.jpg"}
+2025-05-03 20:15:17 - {"action":"clear"}
+2025-05-03 20:25:06 - {"action":"add","product_id":62,"product_name":"Tropical Sunset","price":82,"quantity":1,"image_url":"../assets/Tropical Sunset.jpg"}
+2025-05-03 20:25:07 - {"action":"add","product_id":61,"product_name":"Citrus Splash","price":75.5,"quantity":1,"image_url":"../assets/Citrus Splash.jpg"}
+2025-05-03 20:25:08 - {"action":"add","product_id":60,"product_name":"Summer Breeze","price":69.99,"quantity":1,"image_url":"../assets/Summer Breeze.jpg"}
+2025-05-03 20:25:08 - {"action":"add","product_id":63,"product_name":"Ocean Mist","price":109.99,"quantity":1,"image_url":"../assets/Ocean Mist.jpg"}
+2025-05-03 20:25:09 - {"action":"add","product_id":64,"product_name":"Sunny Bloom","price":89.99,"quantity":1,"image_url":"../assets/Sunny Bloom.jpg"}
+2025-05-03 20:25:10 - {"action":"add","product_id":65,"product_name":"Beach Vibes","price":72.5,"quantity":1,"image_url":"../assets/Beach Vibes.jpg"}
+2025-05-03 20:25:24 - {"action":"clear"}
+2025-05-03 20:31:13 - {"action":"add","product_id":67,"product_name":"Éclipse d'Or","price":75.5,"quantity":1,"image_url":"../assets/Éclipse d'Or.jpg"}
+2025-05-03 20:31:14 - {"action":"add","product_id":66,"product_name":"Opaline Ember","price":69.99,"quantity":1,"image_url":"../assets/Opaline Ember.jpg"}
+2025-05-03 20:31:24 - {"action":"clear"}
+2025-05-03 20:34:20 - {"action":"add","product_id":67,"product_name":"Éclipse d'Or","price":75.5,"quantity":1,"image_url":"../assets/Éclipse d'Or.jpg"}
+2025-05-03 20:34:32 - {"action":"clear"}
+2025-05-03 20:35:36 - {"action":"add","product_id":4,"product_name":"Chanel – Eau de Cologne","price":60.99,"quantity":1,"image_url":"../assets/Chaneleaude.jpg"}
+2025-05-03 20:35:40 - {"action":"add","product_id":5,"product_name":"Guerlain – Eau de Cologne Impériale","price":70.99,"quantity":1,"image_url":"../assets/guerlain.jpg"}
+2025-05-03 20:35:44 - {"action":"add","product_id":1,"product_name":"Calvin Klein","price":119.99,"quantity":1,"image_url":"../assets/calvinklein.jpg"}
+2025-05-03 20:36:37 - {"action":"clear"}
+2025-05-03 20:48:07 - {"action":"add","product_id":69,"product_name":"Morning Reverie","price":75.5,"quantity":1,"image_url":"../assets/Morning Reverie.jpg"}
+2025-05-03 20:48:08 - {"action":"add","product_id":68,"product_name":"Sunlit Mosaic","price":69.99,"quantity":1,"image_url":"../assets/Sunlit Mosaic.jpg"}
+2025-05-03 20:48:18 - {"action":"remove","product_id":69}
+2025-05-03 20:48:21 - {"action":"clear"}
+2025-05-03 21:04:00 - {"action":"add","product_id":70,"product_name":"Indulgence","price":69.99,"quantity":1,"image_url":"../assets/Indulgence.jpg"}
+2025-05-03 21:04:00 - {"action":"add","product_id":71,"product_name":"Pomelo Serenade","price":75.5,"quantity":1,"image_url":"../assets/Pomelo Serenade.jpg"}
+2025-05-03 21:04:09 - {"action":"clear"}
+2025-05-03 21:10:00 - {"action":"add","product_id":72,"product_name":"Morning Tide","price":69.99,"quantity":1,"image_url":"../assets/Morning Tide.jpg"}
+2025-05-03 21:10:12 - {"action":"clear"}
+2025-05-03 21:22:19 - {"action":"add","product_id":79,"product_name":"Velours Nocturne","price":74.99,"quantity":1,"image_url":"../assets/Velours Nocturne.jpg"}
+2025-05-03 21:22:20 - {"action":"add","product_id":80,"product_name":"Silent Majesty","price":79.5,"quantity":1,"image_url":"../assets/Silent Majesty.jpg"}
+2025-05-03 21:22:32 - {"action":"clear"}
+2025-05-03 21:27:09 - {"action":"add","product_id":81,"product_name":"Sunlit Mosaic","price":74.99,"quantity":1,"image_url":"../assets/Sunlit Mosaic.jpg"}
+2025-05-03 21:27:09 - {"action":"add","product_id":82,"product_name":"Velvet Horizon","price":79.5,"quantity":1,"image_url":"../assets/Velvet Horizon.jpg"}
+2025-05-03 21:27:20 - {"action":"clear"}
+2025-05-03 21:32:48 - {"action":"add","product_id":83,"product_name":"Mistwalk","price":74.99,"quantity":1,"image_url":"../assets/Mistwalk.jpg"}
+2025-05-03 21:32:49 - {"action":"add","product_id":84,"product_name":"Citrus Reverie","price":79.5,"quantity":1,"image_url":"../assets/Citrus Reverie.jpg"}
+2025-05-03 21:32:59 - {"action":"clear"}
+2025-05-03 21:40:55 - {"action":"add","product_id":86,"product_name":"Winter Breeze","price":79.5,"quantity":1,"image_url":"../assets/Winter Breeze.jpg"}
+2025-05-03 21:40:56 - {"action":"add","product_id":85,"product_name":"Bloom Mist","price":74.99,"quantity":1,"image_url":"../assets/Bloom Mist.jpg"}
+2025-05-03 21:41:08 - {"action":"clear"}
+2025-05-03 21:42:17 - {"action":"add","product_id":1,"product_name":"Aqua Bloom","price":99.99,"quantity":1,"image_url":"../assets/Aqua Bloom.jpg"}
+2025-05-03 21:42:18 - {"action":"add","product_id":2,"product_name":"Ocean Mist","price":104.99,"quantity":1,"image_url":"../assets/Ocean Mist.jpg"}
+2025-05-03 21:42:22 - {"action":"update","product_id":2,"quantity_change":1,"new_quantity":2}
+2025-05-03 21:42:22 - {"action":"update","product_id":2,"quantity_change":1,"new_quantity":3}
+2025-05-03 21:42:23 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":2}
+2025-05-03 21:42:23 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":3}
+2025-05-03 21:42:23 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":4}
+2025-05-03 21:42:23 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":5}
+2025-05-03 21:42:23 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":6}
+2025-05-03 21:42:24 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":7}
+2025-05-03 21:42:24 - {"action":"update","product_id":2,"quantity_change":1,"new_quantity":4}
+2025-05-03 21:42:25 - {"action":"update","product_id":2,"quantity_change":1,"new_quantity":5}
+2025-05-03 21:42:26 - {"action":"clear"}
+2025-05-04 03:55:11 - {"action":"add","product_id":86,"product_name":"Winter Breeze","price":79.5,"quantity":1,"image_url":"../assets/Winter Breeze.jpg"}
+2025-05-04 03:55:11 - {"action":"add","product_id":85,"product_name":"Bloom Mist","price":74.99,"quantity":1,"image_url":"../assets/Bloom Mist.jpg"}
+2025-05-04 03:55:42 - {"action":"remove","product_id":86}
+2025-05-04 03:55:45 - {"action":"clear"}
+2025-05-04 09:48:39 - {"action":"add","product_id":9,"product_name":"Summer Breeze","price":89.99,"quantity":1,"image_url":"./assets/Summer Breeze.jpg"}
+2025-05-04 09:48:40 - {"action":"add","product_id":8,"product_name":"Spring Bloom","price":79.99,"quantity":1,"image_url":"./assets/Spring Bloom.jpg"}
+2025-05-04 09:48:41 - {"action":"add","product_id":7,"product_name":"Winter Breeze","price":84.99,"quantity":1,"image_url":"./assets/Winter Breeze.jpg"}
+2025-05-04 09:48:42 - {"action":"add","product_id":2,"product_name":"Ocean Mist","price":104.99,"quantity":1,"image_url":"./assets/Ocean Mist.jpg"}
+2025-05-04 09:48:43 - {"action":"add","product_id":1,"product_name":"Aqua Bloom","price":99.99,"quantity":1,"image_url":"./assets/Aqua Bloom.jpg"}
+2025-05-04 09:48:51 - {"action":"add","product_id":9,"product_name":"Summer Breeze","price":89.99,"quantity":1,"image_url":"./assets/Summer Breeze.jpg"}
+2025-05-04 09:48:57 - {"action":"clear"}
+2025-05-04 09:50:54 - {"action":"add","product_id":7,"product_name":"Winter Breeze","price":84.99,"quantity":1,"image_url":"./assets/Winter Breeze.jpg"}
+2025-05-04 09:50:56 - {"action":"add","product_id":9,"product_name":"Summer Breeze","price":89.99,"quantity":1,"image_url":"./assets/Summer Breeze.jpg"}
+2025-05-04 09:50:57 - {"action":"add","product_id":8,"product_name":"Spring Bloom","price":79.99,"quantity":1,"image_url":"./assets/Spring Bloom.jpg"}
+2025-05-04 09:50:58 - {"action":"add","product_id":1,"product_name":"Aqua Bloom","price":99.99,"quantity":1,"image_url":"./assets/Aqua Bloom.jpg"}
+2025-05-04 09:50:59 - {"action":"add","product_id":2,"product_name":"Ocean Mist","price":104.99,"quantity":1,"image_url":"./assets/Ocean Mist.jpg"}
+2025-05-04 09:51:22 - {"action":"clear"}
+2025-05-04 09:51:51 - {"action":"add","product_id":1,"product_name":"Calvin Klein","price":119.99,"quantity":1,"image_url":"../assets/calvinklein.jpg"}
+2025-05-04 09:51:54 - {"action":"add","product_id":3,"product_name":"Acqua di Parma","price":90.99,"quantity":1,"image_url":"../assets/acquadiparmia.jpg"}
+2025-05-04 09:51:56 - {"action":"add","product_id":2,"product_name":"4711 Original Eau de Cologne","price":100.99,"quantity":1,"image_url":"../assets/originaleau.jpg"}
+2025-05-04 09:52:01 - {"action":"clear"}
+2025-05-04 09:52:04 - {"action":"add","product_id":1,"product_name":"Aqua Bloom","price":99.99,"quantity":1,"image_url":"./assets/Aqua Bloom.jpg"}
+2025-05-04 09:52:05 - {"action":"add","product_id":1,"product_name":"Aqua Bloom","price":99.99,"quantity":1,"image_url":"./assets/Aqua Bloom.jpg"}
+2025-05-04 09:52:08 - {"action":"clear"}
+2025-05-04 09:53:58 - {"action":"add","product_id":57,"product_name":"Seafoam Echo","price":85.5,"quantity":1,"image_url":"../assets/Seafoam Echo.jpg"}
+2025-05-04 09:53:59 - {"action":"add","product_id":56,"product_name":"Viva Verde","price":79.99,"quantity":1,"image_url":"../assets/Viva Verde.jpg"}
+2025-05-04 09:54:06 - {"action":"clear"}
+2025-05-04 09:55:42 - {"action":"add","product_id":1,"product_name":"Calvin Klein","price":119.99,"quantity":1,"image_url":"../assets/calvinklein.jpg"}
+2025-05-04 09:55:54 - {"action":"clear"}
+2025-05-04 09:58:56 - {"action":"add","product_id":4,"product_name":"Chanel – Eau de Cologne","price":60.99,"quantity":1,"image_url":"../assets/Chaneleaude.jpg"}
+2025-05-04 09:59:04 - {"action":"add","product_id":4,"product_name":"Chanel – Eau de Cologne","price":60.99,"quantity":1,"image_url":"../assets/Chaneleaude.jpg"}
+2025-05-04 09:59:04 - {"action":"add","product_id":4,"product_name":"Chanel – Eau de Cologne","price":60.99,"quantity":1,"image_url":"../assets/Chaneleaude.jpg"}
+2025-05-04 09:59:28 - {"action":"add","product_id":5,"product_name":"Guerlain – Eau de Cologne Impériale","price":70.99,"quantity":1,"image_url":"../assets/guerlain.jpg"}
+2025-05-04 09:59:32 - {"action":"clear"}
+2025-05-04 10:00:06 - {"action":"add","product_id":5,"product_name":"Guerlain – Eau de Cologne Impériale","price":70.99,"quantity":1,"image_url":"../assets/guerlain.jpg"}
+2025-05-04 10:03:20 - {"action":"add","product_id":4,"product_name":"Chanel – Eau de Cologne","price":60.99,"quantity":1,"image_url":"../assets/Chaneleaude.jpg"}
+2025-05-04 10:03:23 - {"action":"add","product_id":5,"product_name":"Guerlain – Eau de Cologne Impériale","price":70.99,"quantity":1,"image_url":"../assets/guerlain.jpg"}
+2025-05-04 10:03:26 - {"action":"clear"}
+2025-05-04 10:03:32 - {"action":"add","product_id":6,"product_name":"Jo Malone – Lime Basil & Mandarin Cologne","price":50.99,"quantity":1,"image_url":"../assets/jomalone.jpg"}
+2025-05-04 10:03:38 - {"action":"clear"}
+2025-05-04 10:06:40 - {"action":"add","product_id":10,"product_name":"Coco Mademoiselle","price":77.99,"quantity":1,"image_url":"../assets/cocomademoiselle.jpg"}
+2025-05-04 10:06:45 - {"action":"add","product_id":11,"product_name":"Yves Saint Laurent – Libre Eau de Parfum","price":55.99,"quantity":1,"image_url":"../assets/yves.jpg"}
+2025-05-04 10:06:51 - {"action":"update","product_id":10,"quantity_change":1,"new_quantity":2}
+2025-05-04 10:06:51 - {"action":"update","product_id":11,"quantity_change":1,"new_quantity":2}
+2025-05-04 10:06:55 - {"action":"remove","product_id":10}
+2025-05-04 10:06:57 - {"action":"remove","product_id":11}
+2025-05-04 10:07:06 - {"action":"add","product_id":11,"product_name":"Yves Saint Laurent – Libre Eau de Parfum","price":55.99,"quantity":1,"image_url":"../assets/yves.jpg"}
+2025-05-04 10:07:07 - {"action":"add","product_id":12,"product_name":"Lancôme – La Vie Est Belle Eau de Parfum","price":66.99,"quantity":1,"image_url":"../assets/lancome.jpg"}
+2025-05-04 10:07:11 - {"action":"remove","product_id":11}
+2025-05-04 10:07:15 - {"action":"remove","product_id":12}
+2025-05-04 10:07:42 - {"action":"add","product_id":1,"product_name":"Calvin Klein","price":119.99,"quantity":1,"image_url":"../assets/calvinklein.jpg"}
+2025-05-04 10:07:45 - {"action":"add","product_id":2,"product_name":"4711 Original Eau de Cologne","price":100.99,"quantity":1,"image_url":"../assets/originaleau.jpg"}
+2025-05-04 10:07:48 - {"action":"add","product_id":3,"product_name":"Acqua di Parma","price":90.99,"quantity":1,"image_url":"../assets/acquadiparmia.jpg"}
+2025-05-04 10:07:51 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":2}
+2025-05-04 10:07:51 - {"action":"update","product_id":2,"quantity_change":1,"new_quantity":2}
+2025-05-04 10:07:52 - {"action":"update","product_id":3,"quantity_change":1,"new_quantity":2}
+2025-05-04 10:07:53 - {"action":"update","product_id":2,"quantity_change":1,"new_quantity":3}
+2025-05-04 10:07:53 - {"action":"update","product_id":3,"quantity_change":1,"new_quantity":3}
+2025-05-04 10:07:54 - {"action":"update","product_id":1,"quantity_change":1,"new_quantity":3}
+2025-05-04 10:08:00 - {"action":"clear"}
+2025-05-04 10:09:47 - {"action":"add","product_id":7,"product_name":"Bleu de Chanel Eau de Parfum","price":88.99,"quantity":1,"image_url":"../assets/bleudechanel.jpg"}
+2025-05-04 10:09:48 - {"action":"add","product_id":8,"product_name":"Paco Rabanne 1 Million Eau de Parfum","price":78.99,"quantity":1,"image_url":"../assets/pacorabanne.jpg"}
+2025-05-04 10:09:49 - {"action":"add","product_id":9,"product_name":"Tom Ford Noir Extreme Eau de Parfum","price":95.99,"quantity":1,"image_url":"../assets/tomford.jpg"}
+2025-05-04 10:09:55 - {"action":"add","product_id":8,"product_name":"Paco Rabanne 1 Million Eau de Parfum","price":78.99,"quantity":1,"image_url":"../assets/pacorabanne.jpg"}
+2025-05-04 10:10:01 - {"action":"clear"}
+2025-05-04 10:10:05 - {"action":"add","product_id":9,"product_name":"Tom Ford Noir Extreme Eau de Parfum","price":95.99,"quantity":1,"image_url":"../assets/tomford.jpg"}
+2025-05-04 10:10:08 - {"action":"add","product_id":8,"product_name":"Paco Rabanne 1 Million Eau de Parfum","price":78.99,"quantity":1,"image_url":"../assets/pacorabanne.jpg"}
+2025-05-04 10:10:11 - {"action":"add","product_id":7,"product_name":"Bleu de Chanel Eau de Parfum","price":88.99,"quantity":1,"image_url":"../assets/bleudechanel.jpg"}
+2025-05-04 10:10:16 - {"action":"add","product_id":7,"product_name":"Bleu de Chanel Eau de Parfum","price":88.99,"quantity":1,"image_url":"../assets/bleudechanel.jpg"}
+2025-05-04 10:10:19 - {"action":"add","product_id":8,"product_name":"Paco Rabanne 1 Million Eau de Parfum","price":78.99,"quantity":1,"image_url":"../assets/pacorabanne.jpg"}
+2025-05-04 10:10:22 - {"action":"add","product_id":9,"product_name":"Tom Ford Noir Extreme Eau de Parfum","price":95.99,"quantity":1,"image_url":"../assets/tomford.jpg"}
+2025-05-04 10:10:25 - {"action":"clear"}
+2025-05-04 10:10:31 - {"action":"add","product_id":10,"product_name":"Coco Mademoiselle","price":77.99,"quantity":1,"image_url":"../assets/cocomademoiselle.jpg"}
+2025-05-04 10:10:33 - {"action":"add","product_id":11,"product_name":"Yves Saint Laurent – Libre Eau de Parfum","price":55.99,"quantity":1,"image_url":"../assets/yves.jpg"}
+2025-05-04 10:10:36 - {"action":"add","product_id":12,"product_name":"Lancôme – La Vie Est Belle Eau de Parfum","price":66.99,"quantity":1,"image_url":"../assets/lancome.jpg"}
+2025-05-04 10:10:40 - {"action":"add","product_id":7,"product_name":"Bleu de Chanel Eau de Parfum","price":88.99,"quantity":1,"image_url":"../assets/bleudechanel.jpg"}
+2025-05-04 10:10:42 - {"action":"add","product_id":8,"product_name":"Paco Rabanne 1 Million Eau de Parfum","price":78.99,"quantity":1,"image_url":"../assets/pacorabanne.jpg"}
+2025-05-04 10:10:44 - {"action":"add","product_id":9,"product_name":"Tom Ford Noir Extreme Eau de Parfum","price":95.99,"quantity":1,"image_url":"../assets/tomford.jpg"}
+2025-05-04 10:11:38 - {"action":"clear"}
+2025-05-04 10:14:09 - {"action":"add","product_id":13,"product_name":"Oranzo","price":79.99,"quantity":1,"image_url":"../assets/oranzo.jpg"}
+2025-05-04 10:14:11 - {"action":"add","product_id":14,"product_name":"Versace – Dylan Blue Eau de Toilette","price":69.99,"quantity":1,"image_url":"../assets/versacedylan.jpg"}
+2025-05-04 10:14:14 - {"action":"add","product_id":15,"product_name":"Giorgio Armani – Acqua di Giò Eau de Toilette","price":59.99,"quantity":1,"image_url":"../assets/gioarmani.jpg"}
+2025-05-04 10:14:19 - {"action":"clear"}
+2025-05-04 10:17:11 - {"action":"add","product_id":16,"product_name":"Marc Jacobs – Daisy Eau de Toilette","price":54.99,"quantity":1,"image_url":"../assets/daisymarc.jpg"}
+2025-05-04 10:17:14 - {"action":"add","product_id":17,"product_name":"Gucci – Bloom Eau de Toilette","price":84.99,"quantity":1,"image_url":"../assets/guccibloom.jpg"}
+2025-05-04 10:17:16 - {"action":"add","product_id":18,"product_name":"Dolce & Gabbana – Light Blue Eau de Toilette","price":64.99,"quantity":1,"image_url":"../assets/dolce.jpg"}
+2025-05-04 10:20:22 - {"action":"add","product_id":18,"product_name":"Dolce & Gabbana – Light Blue Eau de Toilette","price":64.99,"quantity":1,"image_url":"../assets/dolce.jpg"}
+2025-05-04 10:20:30 - {"action":"clear"}
+2025-05-04 10:25:39 - {"action":"add","product_id":19,"product_name":"Versace Man Eau Fraiche","price":122.99,"quantity":1,"image_url":"../assets/eauversacefraiche.jpg"}
+2025-05-04 10:25:56 - {"action":"add","product_id":21,"product_name":"Eisenberg Eau Fraiche","price":72.99,"quantity":1,"image_url":"../assets/eisenberg.jpg"}
+2025-05-04 10:25:59 - {"action":"add","product_id":20,"product_name":"Pedro del Hierro Eau Fraiche","price":82.99,"quantity":1,"image_url":"../assets/pedro.jpg"}
+2025-05-04 10:26:05 - {"action":"clear"}
+2025-05-04 10:28:16 - {"action":"add","product_id":24,"product_name":"Pure Karen Low Eau de Fraîche","price":71.99,"quantity":1,"image_url":"../assets/KarenLowPureFraiche.jpg"}
+2025-05-04 10:28:18 - {"action":"add","product_id":23,"product_name":"Chanel – Chance Eau Fraîche","price":61.99,"quantity":1,"image_url":"../assets/chanelfraiche.jpg"}
+2025-05-04 10:28:21 - {"action":"add","product_id":22,"product_name":"Cucina Fruits & Passion Alo Pink Coconut Eau Fraiche Light","price":88.99,"quantity":1,"image_url":"../assets/cucina.png"}
+2025-05-04 10:28:26 - {"action":"clear"}
+2025-05-04 10:28:33 - {"action":"add","product_id":22,"product_name":"Cucina Fruits & Passion Alo Pink Coconut Eau Fraiche Light","price":88.99,"quantity":1,"image_url":"../assets/cucina.png"}
+2025-05-04 10:28:39 - {"action":"clear"}
+2025-05-04 10:32:58 - {"action":"add","product_id":25,"product_name":"Dior – Sauvage Elixir","price":120.99,"quantity":1,"image_url":"../assets/Sauvage.jpg"}
+2025-05-04 10:33:00 - {"action":"add","product_id":26,"product_name":"Amouage – Interlude Man Extrait","price":70.99,"quantity":1,"image_url":"../assets/amouageman.jpg"}
+2025-05-04 10:33:08 - {"action":"clear"}
+2025-05-04 10:36:06 - {"action":"add","product_id":31,"product_name":"Maison Francis Kurkdjian – Baccarat Rouge 540 Extrait de Parfum","price":60.99,"quantity":1,"image_url":"../assets/MaisonFrancisKurkdjianBaccaratRouge540Extrait.jpg"}
+2025-05-04 10:36:08 - {"action":"add","product_id":32,"product_name":"Amouage – Honour Woman Extrait","price":50.99,"quantity":1,"image_url":"../assets/amouagewoman.jpg"}
+2025-05-04 10:36:21 - {"action":"add","product_id":32,"product_name":"Amouage – Honour Woman Extrait","price":50.99,"quantity":1,"image_url":"../assets/amouagewoman.jpg"}
+2025-05-04 10:36:23 - {"action":"add","product_id":31,"product_name":"Maison Francis Kurkdjian – Baccarat Rouge 540 Extrait de Parfum","price":60.99,"quantity":1,"image_url":"../assets/MaisonFrancisKurkdjianBaccaratRouge540Extrait.jpg"}
+2025-05-04 10:36:26 - {"action":"clear"}
+2025-05-04 10:42:10 - {"action":"add","product_id":34,"product_name":"Pumpkin Spice","price":81.5,"quantity":1,"image_url":"../assets/Pumpkin Spice.jpg"}
+2025-05-04 10:42:11 - {"action":"add","product_id":33,"product_name":"Spiced Apple Cider","price":76.99,"quantity":1,"image_url":"../assets/Spiced Apple Cider.jpg"}
+2025-05-04 10:42:12 - {"action":"add","product_id":35,"product_name":"Falling Leaves","price":88,"quantity":1,"image_url":"../assets/Falling Leaves.jpg"}
+2025-05-04 10:42:13 - {"action":"add","product_id":38,"product_name":"Maple Woods","price":89.5,"quantity":1,"image_url":"../assets/Maple Woods.jpg"}
+2025-05-04 10:42:14 - {"action":"add","product_id":37,"product_name":"Hazelnut Coffee","price":84.99,"quantity":1,"image_url":"../assets/Hazelnut Coffee.jpg"}
+2025-05-04 10:43:35 - {"action":"add","product_id":40,"product_name":"Lune Sauvage","price":81.5,"quantity":1,"image_url":"../assets/Category Assets/EDP/Lune Sauvage.jpg"}
+2025-05-04 10:43:42 - {"action":"clear"}
+2025-05-04 10:47:29 - {"action":"add","product_id":40,"product_name":"Lune Sauvage","price":81.5,"quantity":1,"image_url":"../assets/Category Assets/EDP/Lune Sauvage.jpg"}
+2025-05-04 10:47:33 - {"action":"clear"}
+2025-05-04 10:49:50 - {"action":"add","product_id":40,"product_name":"Lune Sauvage","price":81.5,"quantity":1,"image_url":"../assets/Lune Sauvage.jpg"}
+2025-05-04 10:49:51 - {"action":"add","product_id":39,"product_name":"Imperial Reverie","price":76.99,"quantity":1,"image_url":"../assets/Imperial Reverie.jpg"}
+2025-05-04 10:49:56 - {"action":"clear"}
+2025-05-04 10:56:31 - {"action":"add","product_id":41,"product_name":"Golden Zephyr","price":76.99,"quantity":1,"image_url":"../assets/Golden Zephyr.jpg"}
+2025-05-04 10:56:36 - {"action":"clear"}
+2025-05-04 11:03:20 - {"action":"add","product_id":38,"product_name":"Maple Woods","price":89.5,"quantity":1,"image_url":"../assets/Maple Woods.jpg"}
+2025-05-04 11:03:22 - {"action":"add","product_id":37,"product_name":"Hazelnut Coffee","price":84.99,"quantity":1,"image_url":"../assets/Hazelnut Coffee.jpg"}
+2025-05-04 11:03:22 - {"action":"add","product_id":36,"product_name":"Cranberry Harvest","price":79,"quantity":1,"image_url":"../assets/Cranberry Harvest.jpg"}
+2025-05-04 11:03:27 - {"action":"clear"}
+2025-05-04 11:03:39 - {"action":"add","product_id":34,"product_name":"Pumpkin Spice","price":81.5,"quantity":1,"image_url":"../assets/Pumpkin Spice.jpg"}
+2025-05-04 11:03:40 - {"action":"add","product_id":33,"product_name":"Spiced Apple Cider","price":76.99,"quantity":1,"image_url":"../assets/Spiced Apple Cider.jpg"}
+2025-05-04 11:03:52 - {"action":"clear"}
+2025-05-04 11:09:22 - {"action":"add","product_id":39,"product_name":"Imperial Reverie","price":76.99,"quantity":1,"image_url":"../assets/Imperial Reverie.jpg"}
+2025-05-04 11:09:23 - {"action":"add","product_id":40,"product_name":"Lune Sauvage","price":81.5,"quantity":1,"image_url":"../assets/Lune Sauvage.jpg"}
+2025-05-04 11:09:25 - {"action":"add","product_id":39,"product_name":"Imperial Reverie","price":76.99,"quantity":1,"image_url":"../assets/Imperial Reverie.jpg"}
+2025-05-04 11:09:31 - {"action":"clear"}
+2025-05-04 11:09:36 - {"action":"add","product_id":40,"product_name":"Lune Sauvage","price":81.5,"quantity":1,"image_url":"../assets/Lune Sauvage.jpg"}
+2025-05-04 11:09:39 - {"action":"clear"}
+2025-05-04 11:12:38 - {"action":"add","product_id":42,"product_name":"Driftwood Muse","price":81.5,"quantity":1,"image_url":"../assets/Driftwood Muse.jpg"}
+2025-05-04 11:12:39 - {"action":"add","product_id":41,"product_name":"Golden Zephyr","price":76.99,"quantity":1,"image_url":"../assets/Golden Zephyr.jpg"}
+2025-05-04 11:12:47 - {"action":"clear"}
+2025-05-04 11:24:45 - {"action":"add","product_id":48,"product_name":"Green Meadow","price":92,"quantity":1,"image_url":"../assets/Green Meadow.jpg"}
+2025-05-04 11:24:46 - {"action":"add","product_id":47,"product_name":"Citrus Burst","price":85.5,"quantity":1,"image_url":"../assets/Citrus Burst.jpg"}
+2025-05-04 11:24:47 - {"action":"add","product_id":46,"product_name":"Spring Bloom","price":79.99,"quantity":1,"image_url":"../assets/Spring Bloom.jpg"}
+2025-05-04 11:25:01 - {"action":"clear"}
+2025-05-04 11:48:24 - {"action":"add","product_id":84,"product_name":"Citrus Reverie","price":79.5,"quantity":1,"image_url":"../assets/Citrus Reverie.jpg"}
+2025-05-04 11:48:25 - {"action":"add","product_id":85,"product_name":"Bloom Mist","price":74.99,"quantity":1,"image_url":"../assets/Bloom Mist.jpg"}
+2025-05-04 11:48:35 - {"action":"clear"}
+2025-05-04 11:49:46 - {"action":"add","product_id":80,"product_name":"Silent Majesty","price":79.5,"quantity":1,"image_url":"../assets/Silent Majesty.jpg"}
+2025-05-04 11:49:47 - {"action":"add","product_id":79,"product_name":"Velours Nocturne","price":74.99,"quantity":1,"image_url":"../assets/Velours Nocturne.jpg"}
+2025-05-04 11:49:55 - {"action":"clear"}
+2025-05-04 11:56:53 - {"action":"add","product_id":86,"product_name":"Winter Breeze","price":79.5,"quantity":1,"image_url":"../assets/Winter Breeze.jpg"}
+2025-05-04 11:56:55 - {"action":"add","product_id":85,"product_name":"Bloom Mist","price":74.99,"quantity":1,"image_url":"../assets/Bloom Mist.jpg"}
+2025-05-04 11:56:57 - {"action":"add","product_id":86,"product_name":"Winter Breeze","price":79.5,"quantity":1,"image_url":"../assets/Winter Breeze.jpg"}
+2025-05-04 11:56:57 - {"action":"add","product_id":86,"product_name":"Winter Breeze","price":79.5,"quantity":1,"image_url":"../assets/Winter Breeze.jpg"}
+2025-05-04 11:56:57 - {"action":"add","product_id":86,"product_name":"Winter Breeze","price":79.5,"quantity":1,"image_url":"../assets/Winter Breeze.jpg"}
+2025-05-04 11:56:58 - {"action":"add","product_id":86,"product_name":"Winter Breeze","price":79.5,"quantity":1,"image_url":"../assets/Winter Breeze.jpg"}
+2025-05-04 11:56:58 - {"action":"add","product_id":86,"product_name":"Winter Breeze","price":79.5,"quantity":1,"image_url":"../assets/Winter Breeze.jpg"}
+2025-05-04 11:56:58 - {"action":"add","product_id":86,"product_name":"Winter Breeze","price":79.5,"quantity":1,"image_url":"../assets/Winter Breeze.jpg"}
+2025-05-04 11:57:03 - {"action":"clear"}
+2025-05-04 20:43:35 - {"action":"add","product_id":2,"product_name":"Ocean Mist","price":104.99,"quantity":1,"image_url":"./assets/Ocean Mist.jpg"}
+2025-05-04 20:43:45 - {"action":"add","product_id":1,"product_name":"Aqua Bloom","price":99.99,"quantity":1,"image_url":"./assets/Aqua Bloom.jpg"}
+2025-05-04 20:43:49 - {"action":"add","product_id":1,"product_name":"Aqua Bloom","price":99.99,"quantity":1,"image_url":"./assets/Aqua Bloom.jpg"}
+2025-05-04 20:44:00 - {"action":"remove","product_id":2}
+2025-05-04 20:44:02 - {"action":"remove","product_id":2}
+2025-05-04 20:44:03 - {"action":"remove","product_id":1}
+2025-05-04 20:44:09 - {"action":"add","product_id":1,"product_name":"Aqua Bloom","price":99.99,"quantity":1,"image_url":"./assets/Aqua Bloom.jpg"}
+2025-05-04 20:52:23 - {"action":"add","product_id":9,"product_name":"Summer Breeze","price":89.99,"quantity":1,"image_url":"./assets/Summer Breeze.jpg"}
+2025-05-04 20:59:08 - {"action":"add","product_id":7,"product_name":"Winter Breeze","price":84.99,"quantity":1,"image_url":"./assets/Winter Breeze.jpg"}
+2025-05-05 08:48:09 - {"action":"add","product_id":2,"product_name":"Ocean Mist","price":104.99,"quantity":1,"image_url":"./assets/Ocean Mist.jpg"}
+2025-05-05 08:48:17 - {"action":"add","product_id":2,"product_name":"Ocean Mist","price":104.99,"quantity":1,"image_url":"./assets/Ocean Mist.jpg"}
+2025-05-05 08:48:21 - {"action":"add","product_id":2,"product_name":"Ocean Mist","price":104.99,"quantity":1,"image_url":"./assets/Ocean Mist.jpg"}
+2025-05-05 09:25:48 - {"action":"add","product_id":2,"product_name":"Ocean Mist","price":104.99,"quantity":1,"image_url":"./assets/Ocean Mist.jpg"}
+2025-05-05 09:26:07 - {"action":"add","product_id":2,"product_name":"Ocean Mist","price":104.99,"quantity":1,"image_url":"./assets/Ocean Mist.jpg"}
+2025-05-05 09:26:09 - {"action":"add","product_id":2,"product_name":"Ocean Mist","price":104.99,"quantity":1,"image_url":"./assets/Ocean Mist.jpg"}
+2025-05-05 09:26:38 - {"action":"add","product_id":1,"product_name":"Aqua Bloom","price":99.99,"quantity":1,"image_url":"./assets/Aqua Bloom.jpg"}
+2025-05-05 09:26:48 - {"action":"add","product_id":2,"product_name":"Ocean Mist","price":104.99,"quantity":1,"image_url":"./assets/Ocean Mist.jpg"}
+2025-05-05 09:28:08 - {"action":"add","product_id":2,"product_name":"Ocean Mist","price":104.99,"quantity":1,"image_url":"./assets/Ocean Mist.jpg"}
+2025-05-05 09:47:23 - {"action":"remove","product_id":1}
+2025-05-05 09:47:25 - {"action":"remove","product_id":1}
+2025-05-05 09:47:26 - {"action":"remove","product_id":9}
+2025-05-05 09:47:27 - {"action":"remove","product_id":9}
+2025-05-05 09:47:29 - {"action":"remove","product_id":7}
+2025-05-05 09:47:30 - {"action":"remove","product_id":7}
+2025-05-05 09:47:32 - {"action":"remove","product_id":2}
+2025-05-05 09:48:02 - {"action":"add","product_id":1,"product_name":"Aqua Bloom","price":99.99,"quantity":1,"image_url":"./assets/Aqua Bloom.jpg"}
+2025-05-05 09:48:02 - {"action":"add","product_id":1,"product_name":"Aqua Bloom","price":99.99,"quantity":1,"image_url":"./assets/Aqua Bloom.jpg"}
+2025-05-05 09:48:02 - {"action":"add","product_id":1,"product_name":"Aqua Bloom","price":99.99,"quantity":1,"image_url":"./assets/Aqua Bloom.jpg"}
+2025-05-05 09:48:49 - {"action":"add","product_id":1,"product_name":"Aqua Bloom","price":99.99,"quantity":1,"image_url":"./assets/Aqua Bloom.jpg"}
+2025-05-05 10:41:35 - {"action":"add","product_id":2,"product_name":"Ocean Mist","price":104.99,"quantity":1,"image_url":"./assets/Ocean Mist.jpg"}
+2025-05-05 11:37:20 - {"action":"add","product_id":2,"product_name":"Ocean Mist","price":104.99,"quantity":1,"image_url":"./assets/Ocean Mist.jpg"}
+2025-05-05 11:40:54 - {"action":"add","product_id":2,"product_name":"Ocean Mist","price":104.99,"quantity":1,"image_url":"./assets/Ocean Mist.jpg"}
+2025-05-05 11:46:51 - {"action":"add","product_id":2,"product_name":"Ocean Mist","price":104.99,"quantity":1,"image_url":"./assets/Ocean Mist.jpg"}
+2025-05-05 11:53:22 - {"action":"add","product_id":2,"product_name":"Ocean Mist","price":104.99,"quantity":1,"image_url":"./assets/Ocean Mist.jpg"}
+2025-05-05 11:58:59 - {"action":"add","product_id":8,"product_name":"Spring Bloom","price":79.99,"quantity":1,"image_url":"./assets/Spring Bloom.jpg"}
+2025-05-05 12:00:14 - {"action":"add","product_id":8,"product_name":"Spring Bloom","price":79.99,"quantity":1,"image_url":"./assets/Spring Bloom.jpg"}
+2025-05-05 12:01:02 - {"action":"remove","product_id":1}
+2025-05-05 12:01:04 - {"action":"remove","product_id":1}
+2025-05-05 12:01:08 - {"action":"remove","product_id":2}
+2025-05-05 12:01:08 - {"action":"remove","product_id":2}
+2025-05-05 12:01:08 - {"action":"update","product_id":2,"quantity_change":-1,"new_quantity":4}
+2025-05-05 12:01:08 - {"action":"update","product_id":2,"quantity_change":-1,"new_quantity":3}
+2025-05-05 12:01:34 - {"action":"remove","product_id":2}
+2025-05-05 12:01:35 - {"action":"update","product_id":2,"quantity_change":-1,"new_quantity":3}
+2025-05-05 12:01:35 - {"action":"update","product_id":2,"quantity_change":-1,"new_quantity":2}
+2025-05-05 12:01:35 - {"action":"update","product_id":2,"quantity_change":-1,"new_quantity":1}
+2025-05-05 12:01:35 - {"action":"clear"}
+2025-05-05 13:38:00 - {"action":"add","product_id":8,"product_name":"Spring Bloom","price":79.99,"quantity":1,"image_url":"./assets/Spring Bloom.jpg"}
+2025-05-05 13:38:05 - {"action":"add","product_id":2,"product_name":"Ocean Mist","price":104.99,"quantity":1,"image_url":"./assets/Ocean Mist.jpg"}
+2025-05-05 13:38:06 - {"action":"add","product_id":2,"product_name":"Ocean Mist","price":104.99,"quantity":1,"image_url":"./assets/Ocean Mist.jpg"}
+2025-05-05 13:38:07 - {"action":"add","product_id":2,"product_name":"Ocean Mist","price":104.99,"quantity":1,"image_url":"./assets/Ocean Mist.jpg"}
+2025-05-05 13:42:58 - {"action":"add","product_id":1,"product_name":"Aqua Bloom","price":99.99,"quantity":1,"image_url":"./assets/Aqua Bloom.jpg"}
+2025-05-05 13:48:10 - {"action":"add","product_id":2,"product_name":"Ocean Mist","price":104.99,"quantity":1,"image_url":"./assets/Ocean Mist.jpg"}
+2025-05-05 14:00:32 - {"action":"remove","product_id":8}
+2025-05-05 14:00:35 - {"action":"clear"}
+2025-05-05 14:49:50 - {"action":"add","product_id":7,"product_name":"Bleu de Chanel Eau de Parfum","price":88.99,"quantity":1,"image_url":"../assets/bleudechanel.jpg"}
+2025-05-05 14:53:56 - {"action":"add","product_id":1,"product_name":"Calvin Klein","price":119.99,"quantity":1,"image_url":"../assets/calvinklein.jpg"}
+2025-05-05 14:56:14 - {"action":"add","product_id":1,"product_name":"Calvin Klein","price":119.99,"quantity":1,"image_url":"../assets/calvinklein.jpg"}
+2025-05-05 14:56:15 - {"action":"add","product_id":2,"product_name":"4711 Original Eau de Cologne","price":100.99,"quantity":1,"image_url":"../assets/originaleau.jpg"}
+2025-05-05 14:56:17 - {"action":"add","product_id":3,"product_name":"Acqua di Parma","price":90.99,"quantity":1,"image_url":"../assets/acquadiparmia.jpg"}
+2025-05-05 15:02:20 - {"action":"add","product_id":3,"product_name":"Acqua di Parma","price":90.99,"quantity":1,"image_url":"../assets/acquadiparmia.jpg"}
+2025-05-05 15:04:21 - {"action":"add","product_id":2,"product_name":"4711 Original Eau de Cologne","price":100.99,"quantity":1,"image_url":"../assets/originaleau.jpg"}
+2025-05-05 15:04:22 - {"action":"add","product_id":1,"product_name":"Calvin Klein","price":119.99,"quantity":1,"image_url":"../assets/calvinklein.jpg"}
+2025-05-05 15:06:53 - {"action":"add","product_id":2,"product_name":"4711 Original Eau de Cologne","price":100.99,"quantity":1,"image_url":"../assets/originaleau.jpg"}
+2025-05-05 15:06:54 - {"action":"add","product_id":1,"product_name":"Calvin Klein","price":119.99,"quantity":1,"image_url":"../assets/calvinklein.jpg"}
+2025-05-05 15:06:54 - {"action":"add","product_id":3,"product_name":"Acqua di Parma","price":90.99,"quantity":1,"image_url":"../assets/acquadiparmia.jpg"}
+2025-05-05 15:10:00 - {"action":"add","product_id":4,"product_name":"Chanel – Eau de Cologne","price":60.99,"quantity":1,"image_url":"../assets/Chaneleaude.jpg"}
+2025-05-05 15:11:20 - {"action":"add","product_id":56,"product_name":"Viva Verde","price":79.99,"quantity":1,"image_url":"../assets/Viva Verde.jpg"}
+2025-05-05 15:16:40 - {"action":"add","product_id":57,"product_name":"Seafoam Echo","price":85.5,"quantity":1,"image_url":"../assets/Seafoam Echo.jpg"}
+2025-05-05 15:16:40 - {"action":"add","product_id":56,"product_name":"Viva Verde","price":79.99,"quantity":1,"image_url":"../assets/Viva Verde.jpg"}
+2025-05-05 15:16:43 - {"action":"add","product_id":57,"product_name":"Seafoam Echo","price":85.5,"quantity":1,"image_url":"../assets/Seafoam Echo.jpg"}
+2025-05-05 15:16:43 - {"action":"add","product_id":57,"product_name":"Seafoam Echo","price":85.5,"quantity":1,"image_url":"../assets/Seafoam Echo.jpg"}
+2025-05-05 15:16:44 - {"action":"add","product_id":57,"product_name":"Seafoam Echo","price":85.5,"quantity":1,"image_url":"../assets/Seafoam Echo.jpg"}
+2025-05-05 15:19:05 - {"action":"add","product_id":56,"product_name":"Viva Verde","price":79.99,"quantity":1,"image_url":"../assets/Viva Verde.jpg"}
+2025-05-05 15:19:05 - {"action":"add","product_id":57,"product_name":"Seafoam Echo","price":85.5,"quantity":1,"image_url":"../assets/Seafoam Echo.jpg"}
+2025-05-05 15:19:29 - {"action":"add","product_id":57,"product_name":"Seafoam Echo","price":85.5,"quantity":1,"image_url":"../assets/Seafoam Echo.jpg"}
+2025-05-05 15:21:50 - {"action":"add","product_id":71,"product_name":"Pomelo Serenade","price":75.5,"quantity":1,"image_url":"../assets/Pomelo Serenade.jpg"}
+2025-05-05 15:21:51 - {"action":"add","product_id":70,"product_name":"Indulgence","price":69.99,"quantity":1,"image_url":"../assets/Indulgence.jpg"}
+2025-05-05 15:25:14 - {"action":"add","product_id":44,"product_name":"Saffron Mirage","price":81.5,"quantity":1,"image_url":"../assets/Saffron Mirage.jpg"}
+2025-05-05 15:25:15 - {"action":"add","product_id":43,"product_name":"Amber Whisper","price":76.99,"quantity":1,"image_url":"../assets/Amber Whisper.jpg"}
+2025-05-05 15:27:05 - {"action":"add","product_id":83,"product_name":"Mistwalk","price":74.99,"quantity":1,"image_url":"../assets/Mistwalk.jpg"}
+2025-05-05 15:27:06 - {"action":"add","product_id":84,"product_name":"Citrus Reverie","price":79.5,"quantity":1,"image_url":"../assets/Citrus Reverie.jpg"}
+2025-05-05 15:28:56 - {"action":"add","product_id":7,"product_name":"Bleu de Chanel Eau de Parfum","price":88.99,"quantity":1,"image_url":"../assets/bleudechanel.jpg"}
+2025-05-05 15:28:57 - {"action":"add","product_id":8,"product_name":"Paco Rabanne 1 Million Eau de Parfum","price":78.99,"quantity":1,"image_url":"../assets/pacorabanne.jpg"}
+2025-05-05 15:28:57 - {"action":"add","product_id":9,"product_name":"Tom Ford Noir Extreme Eau de Parfum","price":95.99,"quantity":1,"image_url":"../assets/tomford.jpg"}
+2025-05-05 15:36:22 - {"action":"add","product_id":10,"product_name":"Coco Mademoiselle","price":77.99,"quantity":1,"image_url":"../assets/cocomademoiselle.jpg"}
+2025-05-05 15:36:23 - {"action":"add","product_id":11,"product_name":"Yves Saint Laurent – Libre Eau de Parfum","price":55.99,"quantity":1,"image_url":"../assets/yves.jpg"}
+2025-05-05 15:36:23 - {"action":"add","product_id":12,"product_name":"Lancôme – La Vie Est Belle Eau de Parfum","price":66.99,"quantity":1,"image_url":"../assets/lancome.jpg"}
+2025-05-05 15:38:28 - {"action":"add","product_id":52,"product_name":"Crimson Oath","price":79.99,"quantity":1,"image_url":"../assets/Crimson Oath.jpg"}
+2025-05-05 15:38:28 - {"action":"add","product_id":53,"product_name":"Elegance","price":85.5,"quantity":1,"image_url":"../assets/Eau de Parfum.jpg"}
+2025-05-05 15:39:38 - {"action":"add","product_id":66,"product_name":"Opaline Ember","price":69.99,"quantity":1,"image_url":"../assets/Opaline Ember.jpg"}
+2025-05-05 15:39:39 - {"action":"add","product_id":67,"product_name":"Éclipse d'Or","price":75.5,"quantity":1,"image_url":"../assets/Éclipse d'Or.jpg"}
+2025-05-05 15:50:04 - {"action":"add","product_id":52,"product_name":"Crimson Oath","price":79.99,"quantity":1,"image_url":"../assets/Crimson Oath.jpg"}
+2025-05-05 15:50:05 - {"action":"add","product_id":53,"product_name":"Elegance","price":85.5,"quantity":1,"image_url":"../assets/Eau de Parfum.jpg"}
+2025-05-05 15:53:30 - {"action":"add","product_id":54,"product_name":"Azure Bloom","price":79.99,"quantity":1,"image_url":"../assets/Azure Bloom.jpg"}
+2025-05-05 15:53:30 - {"action":"add","product_id":55,"product_name":"Legend","price":85.5,"quantity":1,"image_url":"../assets/Eau de Toilette.jpg"}
+2025-05-05 15:55:38 - {"action":"add","product_id":68,"product_name":"Sunlit Mosaic","price":69.99,"quantity":1,"image_url":"../assets/Sunlit Mosaic.jpg"}
+2025-05-05 15:55:39 - {"action":"add","product_id":69,"product_name":"Morning Reverie","price":75.5,"quantity":1,"image_url":"../assets/Morning Reverie.jpg"}
+2025-05-05 15:57:08 - {"action":"add","product_id":41,"product_name":"Golden Zephyr","price":76.99,"quantity":1,"image_url":"../assets/Golden Zephyr.jpg"}
+2025-05-05 15:57:09 - {"action":"add","product_id":42,"product_name":"Driftwood Muse","price":81.5,"quantity":1,"image_url":"../assets/Driftwood Muse.jpg"}
+2025-05-05 15:59:17 - {"action":"add","product_id":82,"product_name":"Velvet Horizon","price":79.5,"quantity":1,"image_url":"../assets/Velvet Horizon.jpg"}
+2025-05-05 15:59:17 - {"action":"add","product_id":81,"product_name":"Sunlit Mosaic","price":74.99,"quantity":1,"image_url":"../assets/Sunlit Mosaic.jpg"}
+2025-05-05 15:59:26 - {"action":"add","product_id":68,"product_name":"Sunlit Mosaic","price":69.99,"quantity":1,"image_url":"../assets/Sunlit Mosaic.jpg"}
+2025-05-05 15:59:26 - {"action":"add","product_id":69,"product_name":"Morning Reverie","price":75.5,"quantity":1,"image_url":"../assets/Morning Reverie.jpg"}
+2025-05-05 15:59:29 - {"action":"add","product_id":41,"product_name":"Golden Zephyr","price":76.99,"quantity":1,"image_url":"../assets/Golden Zephyr.jpg"}
+2025-05-05 15:59:29 - {"action":"add","product_id":42,"product_name":"Driftwood Muse","price":81.5,"quantity":1,"image_url":"../assets/Driftwood Muse.jpg"}
+2025-05-05 15:59:32 - {"action":"add","product_id":81,"product_name":"Sunlit Mosaic","price":74.99,"quantity":1,"image_url":"../assets/Sunlit Mosaic.jpg"}
+2025-05-05 15:59:34 - {"action":"add","product_id":82,"product_name":"Velvet Horizon","price":79.5,"quantity":1,"image_url":"../assets/Velvet Horizon.jpg"}
+2025-05-05 15:59:59 - {"action":"add","product_id":81,"product_name":"Sunlit Mosaic","price":74.99,"quantity":1,"image_url":"../assets/Sunlit Mosaic.jpg"}
+2025-05-05 16:00:00 - {"action":"add","product_id":82,"product_name":"Velvet Horizon","price":79.5,"quantity":1,"image_url":"../assets/Velvet Horizon.jpg"}
+2025-05-05 16:00:25 - {"action":"add","product_id":82,"product_name":"Velvet Horizon","price":79.5,"quantity":1,"image_url":"../assets/Velvet Horizon.jpg"}
+2025-05-05 16:00:26 - {"action":"add","product_id":81,"product_name":"Sunlit Mosaic","price":74.99,"quantity":1,"image_url":"../assets/Sunlit Mosaic.jpg"}
+2025-05-05 16:01:43 - {"action":"add","product_id":59,"product_name":"Crystal Fern","price":85.5,"quantity":1,"image_url":"../assets/Crystal Fern.jpg"}
+2025-05-05 16:01:44 - {"action":"add","product_id":58,"product_name":"Ciel Clair","price":79.99,"quantity":1,"image_url":"../assets/Ciel Clair.jpg"}
+2025-05-05 16:03:53 - {"action":"add","product_id":72,"product_name":"Morning Tide","price":69.99,"quantity":1,"image_url":"../assets/Morning Tide.jpg"}
+2025-05-05 16:09:35 - {"action":"add","product_id":46,"product_name":"Spring Bloom","price":79.99,"quantity":1,"image_url":"../assets/Spring Bloom.jpg"}
+2025-05-05 16:09:36 - {"action":"add","product_id":47,"product_name":"Citrus Burst","price":85.5,"quantity":1,"image_url":"../assets/Citrus Burst.jpg"}
+2025-05-05 16:09:37 - {"action":"add","product_id":48,"product_name":"Green Meadow","price":92,"quantity":1,"image_url":"../assets/Green Meadow.jpg"}
+2025-05-05 16:09:38 - {"action":"add","product_id":49,"product_name":"Aqua Bloom","price":78,"quantity":1,"image_url":"../assets/Aqua Bloom.jpg"}
+2025-05-05 16:09:38 - {"action":"add","product_id":50,"product_name":"Peony Kiss","price":95.99,"quantity":1,"image_url":"../assets/Peony Kiss.jpg"}
+2025-05-05 16:09:38 - {"action":"add","product_id":51,"product_name":"Lemon Zest","price":72.5,"quantity":1,"image_url":"../assets/Lemon Zest.jpg"}
+2025-05-05 16:13:43 - {"action":"add","product_id":34,"product_name":"Pumpkin Spice","price":81.5,"quantity":1,"image_url":"../assets/Pumpkin Spice.jpg"}
+2025-05-05 16:13:45 - {"action":"add","product_id":35,"product_name":"Falling Leaves","price":88,"quantity":1,"image_url":"../assets/Falling Leaves.jpg"}
+2025-05-05 16:13:46 - {"action":"add","product_id":33,"product_name":"Spiced Apple Cider","price":76.99,"quantity":1,"image_url":"../assets/Spiced Apple Cider.jpg"}
+2025-05-05 16:13:50 - {"action":"add","product_id":35,"product_name":"Falling Leaves","price":88,"quantity":1,"image_url":"../assets/Falling Leaves.jpg"}
+2025-05-05 16:18:20 - {"action":"add","product_id":85,"product_name":"Bloom Mist","price":74.99,"quantity":1,"image_url":"../assets/Bloom Mist.jpg"}
+2025-05-05 16:18:21 - {"action":"add","product_id":84,"product_name":"Citrus Reverie","price":79.5,"quantity":1,"image_url":"../assets/Citrus Reverie.jpg"}
+2025-05-05 16:27:39 - {"action":"add","product_id":24,"product_name":"Pure Karen Low Eau de Fraîche","price":71.99,"quantity":1,"image_url":"../assets/KarenLowPureFraiche.jpg"}
+2025-05-05 16:27:40 - {"action":"add","product_id":23,"product_name":"Chanel – Chance Eau Fraîche","price":61.99,"quantity":1,"image_url":"../assets/chanelfraiche.jpg"}
+2025-05-05 16:27:40 - {"action":"add","product_id":22,"product_name":"Cucina Fruits & Passion Alo Pink Coconut Eau Fraiche Light","price":88.99,"quantity":1,"image_url":"../assets/cucina.png"}
+2025-05-05 16:30:50 - {"action":"add","product_id":26,"product_name":"Amouage – Interlude Man Extrait","price":70.99,"quantity":1,"image_url":"../assets/amouageman.jpg"}
+2025-05-05 16:30:51 - {"action":"add","product_id":25,"product_name":"Dior – Sauvage Elixir","price":120.99,"quantity":1,"image_url":"../assets/Sauvage.jpg"}
+2025-05-05 16:31:54 - {"action":"add","product_id":32,"product_name":"Amouage – Honour Woman Extrait","price":50.99,"quantity":1,"image_url":"../assets/amouagewoman.jpg"}
+2025-05-05 16:31:56 - {"action":"add","product_id":31,"product_name":"Maison Francis Kurkdjian – Baccarat Rouge 540 Extrait de Parfum","price":60.99,"quantity":1,"image_url":"../assets/MaisonFrancisKurkdjianBaccaratRouge540Extrait.jpg"}
+2025-05-05 16:38:15 - {"action":"clear"}

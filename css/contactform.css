@@ -1,170 +1,61 @@
-/* Page Container */
-.contact-page {
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
-    background: #fff;
-    padding: 2rem;
-}
-
-/* Contact Form Container */
-.contact-form-container {
-    max-width: 650px;
-    margin: 4rem auto;
-    padding: 40px 30px;
-    background: #ffffff;
-    border: 1px solid #e0e0e0;
-    border-radius: 20px;
-    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08);
-    font-family: 'Poppins', sans-serif;
-    animation: fadeInUp 1s ease forwards;
-    transition: all 0.4s ease;
-}
-
-.contact-form-container:hover {
-    transform: translateY(-6px);
-    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.12);
-}
-
-/* Header */
-.header {
-    text-align: center;
-    margin-bottom: 2rem;
-}
-
-.header h1 {
-    font-size: 36px;
-    color: #000;
-    margin-bottom: 0.5rem;
-    letter-spacing: 1px;
+html {
+    overflow-y: scroll; /* Ensures the scrollbar is always visible */
+  }
+  
+  body {
+    background-color: #ffffff;
+    color: #000000;
+  }
+  
+  h1.h3 {
+    font-size: 2rem;
     font-weight: 700;
-}
-
-.header h2 {
-    font-size: 20px;
-    color: #333;
-    font-weight: 400;
-    margin-top: 0;
-}
-
-/* Form */
-.contact-form {
-    display: flex;
-    flex-direction: column;
-    gap: 1.5rem;
-}
-
-.form-group {
-    display: flex;
-    flex-direction: column;
-    gap: 6px;
-}
-
-.form-group label {
-    font-weight: 500;
-    color: #000;
-    font-size: 15px;
-    margin-left: 2px;
-}
-
-.form-group input,
-.form-group textarea {
-    padding: 14px 16px;
-    border: 1px solid #000;
-    border-radius: 10px;
-    font-size: 16px;
-    background-color: #fff;
-    color: #000;
-    transition: all 0.3s ease;
-}
-
-.form-group input:hover,
-.form-group textarea:hover {
-    background-color: #f9f9f9;
-}
-
-.form-group input:focus,
-.form-group textarea:focus {
-    border-color: #000;
-    background-color: #fff;
-    outline: none;
-}
-
-/* Textarea */
-.form-group textarea {
-    min-height: 140px;
-    resize: vertical;
-}
-
-/* Name Inputs */
-.name-inputs {
-    display: flex;
-    gap: 20px;
-}
-
-.name-inputs input {
-    flex: 1;
-}
-
-/* Submit Button */
-.submit-btn {
-    background-color: #000;
-    color: #fff;
-    padding: 14px 20px;
-    border: 2px solid #000;
-    border-radius: 10px;
-    font-size: 16px;
+    color: #000000;
+  }
+  
+  p.text-muted {
+    font-size: 1rem;
+    color: #555555;
+  }
+  
+  .form-label {
     font-weight: 600;
-    cursor: pointer;
-    transition: all 0.3s ease;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-}
-
-.submit-btn:hover {
-    background-color: #fff;
-    color: #000;
-    border: 2px solid #000;
-    transform: scale(1.05);
-    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
-}
-
-/* Responsive Design */
-@media (max-width: 768px) {
-    .name-inputs {
-        flex-direction: column;
-        gap: 15px;
-    }
-    
-    .contact-form-container {
-        padding: 30px 20px;
-        margin: 2rem auto;
-    }
-}
-
-@media (max-width: 480px) {
-    .header h1 {
-        font-size: 28px;
-    }
-    
-    .header h2 {
-        font-size: 18px;
-    }
-    
-    .form-group input,
-    .form-group textarea {
-        padding: 12px 14px;
-    }
-}
-
-/* Fade In Up Animation */
-@keyframes fadeInUp {
-    0% {
-        opacity: 0;
-        transform: translateY(20px);
-    }
-    100% {
-        opacity: 1;
-        transform: translateY(0);
-    }
-}
+    color: #333333;
+  }
+  
+  .form-control {
+    border-radius: 10px; /* Rounded corners */
+    border: 1px solid rgba(0, 0, 0, 0.5); /* Grayish border with 50% opacity */
+    background-color: #ffffff;
+    color: #000000;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .form-control:focus {
+    border-color: rgba(0, 123, 255, 0.8); /* Blue border with 80% opacity on focus */
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Subtle blue glow effect */
+  }
+  
+  textarea.form-control {
+    resize: none;
+  }
+  
+  .form-control:hover {
+    border-color: rgba(0, 123, 255, 0.8); /* Blue border with 80% opacity on hover */
+  }
+  
+  .btn-primary {
+    background-color: #000000;
+    border-color: rgba(0, 0, 0, 0.5); /* Grayish border with 50% opacity */
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 20px; /* Rounded button */
+    transition: background-color 0.3s ease, color 0.3s ease, transform 0.2s ease;
+  }
+  
+  .btn-primary:hover {
+    background-color: #ffffff;
+    color: #000000;
+    border-color: rgba(0, 0, 0, 0.8); /* Darker grayish border with 80% opacity */
+    transform: scale(1.05); /* Slightly enlarge on hover */
+  }

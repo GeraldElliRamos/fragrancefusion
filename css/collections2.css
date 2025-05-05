@@ -1,0 +1,179 @@
+/* General Styles */
+body {
+    background-color: #fff; /* White background */
+    color: #000; /* Black text */
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Modern Container */
+.modern-container {
+    text-align: center;
+    padding: 40px 20px;
+}
+
+/* Headings */
+.modern-heading {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #000; /* Black text */
+}
+
+.modern-subheading {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+    color: #555; /* Dark gray text */
+}
+
+.modern-section-title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 40px 0 20px;
+    color: #000; /* Black text */
+}
+
+/* Grid Layout */
+.modern-grid {
+    display: grid;
+    gap: 20px;
+}
+
+/* Men and Women Section */
+.modern-grid.men-women {
+    grid-template-columns: repeat(2, 1fr); /* Two items side by side */
+}
+
+/* Seasons Section */
+.modern-grid.seasons {
+    grid-template-columns: repeat(4, 1fr); /* Four items in one row */
+    gap: 20px;
+}
+
+.modern-grid.seasons .modern-card {
+    display: flex;
+    flex-direction: column; /* Stack text vertically */
+    background-color: #f9f9f9; /* Light gray background */
+    border: 1px solid #ddd; /* Light border */
+    border-radius: 10px;
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle drop shadow */
+    text-align: center; /* Center text horizontally */
+    justify-content: center; /* Center content vertically */
+    align-items: center; /* Center content horizontally */
+    padding: 20px; /* Add padding for spacing */
+    height: 150px; /* Ensure consistent height for all cards */
+}
+
+.modern-grid.seasons .modern-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); /* Stronger shadow on hover */
+}
+
+.modern-grid.seasons .modern-card-body {
+    padding: 0; /* Remove extra padding */
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Center content vertically */
+    align-items: center; /* Center content horizontally */
+    height: 100%; /* Ensure the body takes full height of the card */
+}
+
+.modern-grid.seasons .modern-card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #000; /* Black text */
+}
+
+.modern-grid.seasons .modern-card-text {
+    font-size: 1rem;
+    color: #555; /* Dark gray text */
+}
+
+/* Modern Card */
+.modern-card {
+    display: flex;
+    flex-direction: row; /* Default order: image on the left, text on the right */
+    background-color: #f9f9f9; /* Light gray background */
+    border: 1px solid #ddd; /* Light border */
+    border-radius: 10px;
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle drop shadow */
+}
+
+.modern-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); /* Stronger shadow on hover */
+}
+
+.modern-card-img {
+    width: 50%; /* Take half the width */
+    height: auto;
+    object-fit: cover;
+}
+
+.modern-card-body {
+    width: 50%; /* Take half the width */
+    padding: 20px;
+    text-align: left; /* Align text to the left */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.modern-card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #000; /* Black text */
+}
+
+.modern-card-text {
+    font-size: 1rem;
+    color: #555; /* Dark gray text */
+    width: 400px; /* Full width for text */
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .modern-grid.men-women {
+        grid-template-columns: 1fr; /* Stack items vertically on smaller screens */
+    }
+
+    .modern-grid.seasons {
+        grid-template-columns: 1fr 1fr; /* Two items per row on smaller screens */
+    }
+
+    .modern-card {
+        flex-direction: column; /* Stack image and text vertically */
+    }
+
+    .modern-card-img,
+    .modern-card-body {
+        width: 100%; /* Full width for both sections */
+    }
+
+    .modern-card-img {
+        height: 200px; /* Adjust height for smaller screens */
+    }
+
+    .modern-heading {
+        font-size: 2rem;
+    }
+
+    .modern-subheading {
+        font-size: 1rem;
+    }
+}

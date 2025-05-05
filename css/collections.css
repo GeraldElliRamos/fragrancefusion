@@ -1,55 +1,163 @@
-
 /* Collection Cards - Clean and Interactive */
 
+/* General Layout Adjustments */
+body {
+    padding-top: 80px; /* Add space for the navbar */
+    padding-bottom: 80px; /* Add space for the footer */
+}
+
+.container {
+    width: 100%; /* Ensure the container spans the full width */
+    max-width: none; /* Remove any maximum width constraints */
+    margin: 0; /* Remove default margins */
+    padding: 0; /* Remove default padding */
+}
+
+/* Adjust card layout for 4 columns */
+.row-cols-lg-4 {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 cards per row */
+    gap: 20px; /* Space between cards */
+}
+
+/* Modern Card Styles */
 .card {
-  border: none;
-  border-radius: 16px;
-  overflow: hidden;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border: none; /* Remove border for a cleaner look */
+    border-radius: 15px; /* Softer rounded corners */
+    overflow: hidden;
+    background-color: #f9f9f9; /* Light gray background */
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1); /* Modern shadow */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    height: 100%; /* Ensure consistent height for all cards */
+    margin: auto; /* Center the card */
 }
 
 .card:hover {
-  transform: translateY(-8px);
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+    transform: translateY(-10px); /* Lift effect on hover */
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.2); /* Stronger shadow on hover */
 }
 
+/* Image */
 .card-img-top {
-  height: 300px;
-  object-fit: cover;
-  transition: transform 0.3s ease;
+    width: 100%;
+    height: 250px; /* Larger image height */
+    object-fit: cover; /* Ensure the image covers the entire card */
+    background-color: #eaeaea; /* Subtle gray background for contrast */
+    transition: transform 0.3s ease;
 }
 
 .card:hover .card-img-top {
-  transform: scale(1.05);
+    transform: scale(1.1); /* Add a stronger zoom effect on hover */
 }
 
+/* Card Body */
+.card-body {
+    padding: 20px;
+    text-align: center;
+    background-color: #ffffff; /* White background for text area */
+}
+
+/* Product Name and Price */
 .card-title {
-  font-size: 1.25rem;
-  font-weight: bold;
-  color: #111;
-  margin-bottom: 10px;
-  transition: color 0.3s ease;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #333333; /* Darker text for better readability */
+    margin-bottom: 15px;
+    display: inline-block;
+    position: relative;
 }
 
-.card:hover .card-title {
-  color: #555;
+.card-title .price-pill {
+    display: inline-block;
+    background-color: #333333; /* Dark pill */
+    color: #ffffff; /* White text */
+    font-size: 0.9rem;
+    font-weight: 600;
+    padding: 6px 12px;
+    border-radius: 20px; /* Rounded pill */
+    margin-left: 10px; /* Space between name and price */
 }
 
+/* Description */
 .card-text {
-  color: #666;
-  font-size: 0.95rem;
+    font-size: 1rem;
+    color: #555555; /* Slightly darker gray text */
+    margin-bottom: 20px;
 }
 
-.btn-dark.btn-sm {
-  border-radius: 20px;
-  padding: 6px 18px;
-  transition: background-color 0.3s ease, transform 0.3s ease;
+/* Buttons */
+.card-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 15px; /* Space between buttons */
+    margin-top: 15px;
 }
 
-.btn-dark.btn-sm:hover {
-  background-color: #333;
-  transform: scale(1.05);
+.btn {
+    border-radius: 50px; /* Fully rounded buttons */
+    padding: 12px 20px; /* Larger padding for a modern look */
+    font-size: 1rem; /* Larger font size */
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    width: 150px; /* Wider buttons for better visibility */
+    text-align: center;
+    font-weight: bold; /* Bold text for emphasis */
+}
+
+/* Add to Cart Button */
+.btn-primary {
+    background-color: #333333; /* Dark background */
+    border: none; /* Remove border */
+    color: #ffffff; /* White text */
+}
+
+.btn-primary:hover {
+    background-color: #555555; /* Slightly lighter dark background on hover */
+    transform: scale(1.1); /* Slight zoom on hover */
+}
+
+/* View Button */
+.btn-secondary {
+    background-color: #eaeaea; /* Light gray for contrast */
+    color: #333333;
+    border: none;
+}
+
+.btn-secondary:hover {
+    background-color: #cccccc; /* Darker gray on hover */
+    transform: scale(1.1);
+}
+
+/* Modal Styles */
+.modal-content {
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.modal-header {
+    background-color: #f9f9f9;
+    border-bottom: none;
+}
+
+.modal-title {
+    font-size: 1.4rem;
+    font-weight: bold;
+    color: #000;
+}
+
+.modal-body {
+    padding: 20px;
+}
+
+.modal-footer {
+    background-color: #f9f9f9;
+    border-top: none;
+    text-align: center;
+}
+
+.modal-body img {
+    border-radius: 8px;
+    margin-bottom: 15px;
 }
 
 /* Header styles */
@@ -67,205 +175,202 @@
     right: 0;
     z-index: 1000; /* Ensures the navbar stays above other content */
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: adds a shadow for better visibility */
-  }
-  
-  /* Adds some spacing to the content below the fixed navbar */
-  body {
-    padding-top: 80px; /* Adjust this value depending on the height of the navbar */
-  }
-  
-  .header-left {
+}
+
+.header-left {
     display: flex;
     align-items: center;
     gap: 31px;
-  }
-  
-  .logo {
+}
+
+.logo {
     font-size: 1.5rem;
     font-weight: bold;
     color: #111111;
-  }
-  
-  .main-nav {
+}
+
+.main-nav {
     display: flex;
     align-items: center;
     gap: 31px;
     font-size: 1rem;
-  }
-  
-  .header-right {
+}
+
+.header-right {
     display: flex;
     align-items: center;
     gap: 23px;
     text-align: center;
-  }
-  
-  .nav-link {
+}
+
+.nav-link {
     color: #111111;
     text-decoration: none; /* Remove underline on all links */
     transition: transform 0.3s ease, color 0.3s ease; /* Smooth transition for zoom and color */
-  }
-  
-  .nav-link:hover {
+}
+
+.nav-link:hover {
     transform: scale(1.1); /* Zoom effect */
     color: #333333; /* Optional: change color on hover */
-  }
-  
-  .signup-btn {
+}
+
+.signup-btn {
     border-radius: 4px;
     background-color: #111111;
     color: white;
     padding: 8px 16px;
     transition: background-color 0.3s ease; /* Smooth transition for background color */
-  }
-  
-  .signup-btn:hover {
+}
+
+.signup-btn:hover {
     background-color: #333333;
-  }
-  
-  .cart-icon {
+}
+
+/* Align cart badge with the cart icon */
+.cart-link {
+    position: relative;
+    display: inline-block;
+}
+
+.cart-icon {
     width: 24px;
     height: 24px;
     object-fit: contain;
-  }
+}
 
+.cart-badge {
+    position: absolute;
+    top: -5px; /* Adjust this value to align vertically */
+    right: -5px; /* Adjust this value to align horizontally */
+    background-color: #dc3545;
+    color: white;
+    border-radius: 50%;
+    padding: 0.25em 0.6em;
+    font-size: 0.75rem;
+    font-weight: 700;
+    display: inline-block;
+    text-align: center;
+}
 
-  /* Footer styles */
+/* Footer styles */
 .footer {
     background-color: #ffffff;
-    width: 80%;
+    width: 100%;
     padding: 70px 36px 40px 36px;
     margin: 0 auto; /* This centers the footer horizontally */
-  }
-  
-  .footer-content {
+}
+
+.footer-content {
     display: flex;
-    gap: 20px;
-  }
-  
-  .footer-column {
-    width: 100%;
-    display: flex;
-    gap: 20px;
-  }
-  
-  .footer-section {
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.footer-column {
+    flex: 1;
+    min-width: 200px;
+    margin-bottom: 20px;
+}
+
+.footer-section {
     flex-grow: 1;
     display: flex;
     flex-direction: column;
-  }
-  
-  .footer-heading {
+}
+
+.footer-heading {
     color: #111111;
     font-size: 1.25rem;
     font-weight: bold;
     line-height: 1.4;
-  }
-  
-  .footer-text {
+    margin-bottom: 1rem;
+}
+
+.footer-text {
     color: #444444;
     font-size: 1rem;
     line-height: 1.5;
     margin-top: 27px;
-  }
-  
-  .footer-nav {
+}
+
+.footer-nav {
     display: flex;
     flex-direction: column;
-  }
-  
-  .footer-link {
+}
+
+.footer-link {
     color: #444444;
     margin-top: 25px;
     transition: color 0.3s;
-  }
-  
-  .footer-link:hover {
+    text-decoration: none;
+}
+
+.footer-link:hover {
     color: black;
-  }
-  
-  
-  .social-links {
+}
+
+.social-links {
     display: flex;
     gap: 24px;
     margin-top: 25px;
-  }
-  
-  .social-icon {
+}
+
+.social-icon {
     width: 24px;
     height: 24px;
     object-fit: contain;
-  }
-  
-  .copyright {
+}
+
+.copyright {
     text-align: center;
     color: #444444;
     font-size: 0.875rem;
     margin-top: 40px;
-  }
-  
-  /* Media queries */
-  @media (max-width: 768px) {
+}
+
+/* Add margin above the "Our Collections" text */
+h2.text-center {
+    margin-top: 10px; /* Adjust this value as needed */
+    font-size: 1.8rem; /* Optional: Adjust font size for better styling */
+    font-weight: bold; /* Optional: Make the text bold */
+    color: #000; /* Optional: Ensure the text color matches the theme */
+}
+
+/* Media Queries */
+@media (max-width: 768px) {
     .header {
-      padding: 17px 20px;
+        padding: 17px 20px;
     }
-    
-    .hero-title {
-      font-size: 2.5rem;
-      margin-top: 40px;
-    }
-    
-    .hero-image {
-      margin-top: 40px;
-    }
-    
-    .stats {
-      margin-top: 40px;
-    }
-    
-    .stats-container {
-      flex-direction: column;
-    }
-    
-    .stat-card {
-      margin-top: 32px;
-      padding: 32px 20px;
-    }
-    
-    .team-title {
-      margin-top: 40px;
-    }
-    
-    .team-row {
-      flex-direction: column;
-      margin-top: 40px;
-    }
-    
-    .team-row.second-row {
-      margin-top: 40px;
-    }
-    
-    .team-col-left {
-      width: 100%;
-    }
-    
-    .team-col-right {
-      width: 100%;
-      margin-top: 36px;
-    }
-    
-    .newsletter {
-      margin-top: 40px;
-      padding: 81px 20px;
-    }
-    
+
     .footer-content {
-      flex-direction: column;
+        flex-direction: column;
     }
-    
+
     .footer-column {
-      width: 100%;
-      margin-top: 40px;
+        width: 100%;
+        margin-top: 40px;
     }
-  }
-  
+
+    .card-img-top {
+        height: 150px; /* Adjust image height for smaller screens */
+    }
+
+    .card-title {
+        font-size: 1rem;
+    }
+
+    .card-text {
+        font-size: 0.85rem;
+    }
+
+    .fw-bold {
+        font-size: 0.9rem;
+    }
+
+    .btn {
+        padding: 5px 10px;
+        font-size: 0.8rem;
+    }
+}
